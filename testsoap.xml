@@ -1,0 +1,1939 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<?xml-stylesheet type="text/xsl" href="http://www.floatrates.com/currency-rates.xsl" ?>
+<channel>
+<title>XML Daily Foreign Exchange Rates for Danish Krone (DKK)</title>
+<link>http://www.floatrates.com/currency/dkk/</link>
+<xmlLink>http://www.floatrates.com/daily/dkk.xml</xmlLink>
+<description>XML Daily foreign exchange rates for Danish Krone (DKK) from the Float Rates. Published at Thu, 30 Apr 2020 12:00:01 GMT.</description>
+<language>en</language>
+<baseCurrency>DKK</baseCurrency>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<lastBuildDate>Thu, 30 Apr 2020 12:00:01 GMT</lastBuildDate>
+<item>
+<title>1 DKK = 0.14554450 USD</title>
+<link>http://www.floatrates.com/dkk/usd/</link>
+<description>1 Danish Krone = 0.14554450 U.S. Dollar</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>USD</targetCurrency>
+<targetName>U.S. Dollar</targetName>
+<exchangeRate>0.14554450</exchangeRate>
+<inverseRate>6.87075096</inverseRate>
+<inverseDescription>1 U.S. Dollar = 6.87075096 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.13401588 EUR</title>
+<link>http://www.floatrates.com/dkk/eur/</link>
+<description>1 Danish Krone = 0.13401588 Euro</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>EUR</targetCurrency>
+<targetName>Euro</targetName>
+<exchangeRate>0.13401588</exchangeRate>
+<inverseRate>7.46180226</inverseRate>
+<inverseDescription>1 Euro = 7.46180226 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.11697915 GBP</title>
+<link>http://www.floatrates.com/dkk/gbp/</link>
+<description>1 Danish Krone = 0.11697915 U.K. Pound Sterling</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>GBP</targetCurrency>
+<targetName>U.K. Pound Sterling</targetName>
+<exchangeRate>0.11697915</exchangeRate>
+<inverseRate>8.54853162</inverseRate>
+<inverseDescription>1 U.K. Pound Sterling = 8.54853162 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.22267501 AUD</title>
+<link>http://www.floatrates.com/dkk/aud/</link>
+<description>1 Danish Krone = 0.22267501 Australian Dollar</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>AUD</targetCurrency>
+<targetName>Australian Dollar</targetName>
+<exchangeRate>0.22267501</exchangeRate>
+<inverseRate>4.49084970</inverseRate>
+<inverseDescription>1 Australian Dollar = 4.49084970 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.20250284 CAD</title>
+<link>http://www.floatrates.com/dkk/cad/</link>
+<description>1 Danish Krone = 0.20250284 Canadian Dollar</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>CAD</targetCurrency>
+<targetName>Canadian Dollar</targetName>
+<exchangeRate>0.20250284</exchangeRate>
+<inverseRate>4.93820225</inverseRate>
+<inverseDescription>1 Canadian Dollar = 4.93820225 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 15.53169180 JPY</title>
+<link>http://www.floatrates.com/dkk/jpy/</link>
+<description>1 Danish Krone = 15.53169180 Japanese Yen</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>JPY</targetCurrency>
+<targetName>Japanese Yen</targetName>
+<exchangeRate>15.53169180</exchangeRate>
+<inverseRate>0.06438449</inverseRate>
+<inverseDescription>1 Japanese Yen = 0.06438449 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.14171968 CHF</title>
+<link>http://www.floatrates.com/dkk/chf/</link>
+<description>1 Danish Krone = 0.14171968 Swiss Franc</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>CHF</targetCurrency>
+<targetName>Swiss Franc</targetName>
+<exchangeRate>0.14171968</exchangeRate>
+<inverseRate>7.05618308</inverseRate>
+<inverseDescription>1 Swiss Franc = 7.05618308 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 10.97363281 INR</title>
+<link>http://www.floatrates.com/dkk/inr/</link>
+<description>1 Danish Krone = 10.97363281 Indian Rupee</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>INR</targetCurrency>
+<targetName>Indian Rupee</targetName>
+<exchangeRate>10.97363281</exchangeRate>
+<inverseRate>0.09112753</inverseRate>
+<inverseDescription>1 Indian Rupee = 0.09112753 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.29130058 BBD</title>
+<link>http://www.floatrates.com/dkk/bbd/</link>
+<description>1 Danish Krone = 0.29130058 Barbadian Dollar</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>BBD</targetCurrency>
+<targetName>Barbadian Dollar</targetName>
+<exchangeRate>0.29130058</exchangeRate>
+<inverseRate>3.43288023</inverseRate>
+<inverseDescription>1 Barbadian Dollar = 3.43288023 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 3,405.09689306 VND</title>
+<link>http://www.floatrates.com/dkk/vnd/</link>
+<description>1 Danish Krone = 3,405.09689306 Vietnamese Dong</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>VND</targetCurrency>
+<targetName>Vietnamese Dong</targetName>
+<exchangeRate>3,405.09689306</exchangeRate>
+<inverseRate>0.00029368</inverseRate>
+<inverseDescription>1 Vietnamese Dong = 0.00029368 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 2.29313384 EGP</title>
+<link>http://www.floatrates.com/dkk/egp/</link>
+<description>1 Danish Krone = 2.29313384 Egyptian Pound</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>EGP</targetCurrency>
+<targetName>Egyptian Pound</targetName>
+<exchangeRate>2.29313384</exchangeRate>
+<inverseRate>0.43608445</inverseRate>
+<inverseDescription>1 Egyptian Pound = 0.43608445 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 82.56754949 CRC</title>
+<link>http://www.floatrates.com/dkk/crc/</link>
+<description>1 Danish Krone = 82.56754949 Costa Rican Colón</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>CRC</targetCurrency>
+<targetName>Costa Rican Colón</targetName>
+<exchangeRate>82.56754949</exchangeRate>
+<inverseRate>0.01211130</inverseRate>
+<inverseDescription>1 Costa Rican Colón = 0.01211130 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 28.92107790 LRD</title>
+<link>http://www.floatrates.com/dkk/lrd/</link>
+<description>1 Danish Krone = 28.92107790 Liberian dollar</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>LRD</targetCurrency>
+<targetName>Liberian dollar</targetName>
+<exchangeRate>28.92107790</exchangeRate>
+<inverseRate>0.03457686</inverseRate>
+<inverseDescription>1 Liberian dollar = 0.03457686 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 23.38271487 SSP</title>
+<link>http://www.floatrates.com/dkk/ssp/</link>
+<description>1 Danish Krone = 23.38271487 South Sudanese pound</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>SSP</targetCurrency>
+<targetName>South Sudanese pound</targetName>
+<exchangeRate>23.38271487</exchangeRate>
+<inverseRate>0.04276663</inverseRate>
+<inverseDescription>1 South Sudanese pound = 0.04276663 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 2.19020063 ERN</title>
+<link>http://www.floatrates.com/dkk/ern/</link>
+<description>1 Danish Krone = 2.19020063 Eritrean nakfa</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>ERN</targetCurrency>
+<targetName>Eritrean nakfa</targetName>
+<exchangeRate>2.19020063</exchangeRate>
+<inverseRate>0.45657918</inverseRate>
+<inverseDescription>1 Eritrean nakfa = 0.45657918 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 84.06126449 SOS</title>
+<link>http://www.floatrates.com/dkk/sos/</link>
+<description>1 Danish Krone = 84.06126449 Somali shilling</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>SOS</targetCurrency>
+<targetName>Somali shilling</targetName>
+<exchangeRate>84.06126449</exchangeRate>
+<inverseRate>0.01189609</inverseRate>
+<inverseDescription>1 Somali shilling = 0.01189609 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.63124671 MYR</title>
+<link>http://www.floatrates.com/dkk/myr/</link>
+<description>1 Danish Krone = 0.63124671 Malaysian Ringgit</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>MYR</targetCurrency>
+<targetName>Malaysian Ringgit</targetName>
+<exchangeRate>0.63124671</exchangeRate>
+<inverseRate>1.58416666</inverseRate>
+<inverseDescription>1 Malaysian Ringgit = 1.58416666 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.64920132 RON</title>
+<link>http://www.floatrates.com/dkk/ron/</link>
+<description>1 Danish Krone = 0.64920132 Romanian New Leu</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>RON</targetCurrency>
+<targetName>Romanian New Leu</targetName>
+<exchangeRate>0.64920132</exchangeRate>
+<inverseRate>1.54035424</inverseRate>
+<inverseDescription>1 Romanian New Leu = 1.54035424 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.49111308 PEN</title>
+<link>http://www.floatrates.com/dkk/pen/</link>
+<description>1 Danish Krone = 0.49111308 Peruvian Nuevo Sol</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>PEN</targetCurrency>
+<targetName>Peruvian Nuevo Sol</targetName>
+<exchangeRate>0.49111308</exchangeRate>
+<inverseRate>2.03619092</inverseRate>
+<inverseDescription>1 Peruvian Nuevo Sol = 2.03619092 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 218.12493205 LBP</title>
+<link>http://www.floatrates.com/dkk/lbp/</link>
+<description>1 Danish Krone = 218.12493205 Lebanese Pound</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>LBP</targetCurrency>
+<targetName>Lebanese Pound</targetName>
+<exchangeRate>218.12493205</exchangeRate>
+<inverseRate>0.00458453</inverseRate>
+<inverseDescription>1 Lebanese Pound = 0.00458453 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 551.62818887 MGA</title>
+<link>http://www.floatrates.com/dkk/mga/</link>
+<description>1 Danish Krone = 551.62818887 Malagasy ariary</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>MGA</targetCurrency>
+<targetName>Malagasy ariary</targetName>
+<exchangeRate>551.62818887</exchangeRate>
+<inverseRate>0.00181282</inverseRate>
+<inverseDescription>1 Malagasy ariary = 0.00181282 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.98259608 TTD</title>
+<link>http://www.floatrates.com/dkk/ttd/</link>
+<description>1 Danish Krone = 0.98259608 Trinidad Tobago Dollar</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>TTD</targetCurrency>
+<targetName>Trinidad Tobago Dollar</targetName>
+<exchangeRate>0.98259608</exchangeRate>
+<inverseRate>1.01771218</inverseRate>
+<inverseDescription>1 Trinidad Tobago Dollar = 1.01771218 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 14.22348094 HTG</title>
+<link>http://www.floatrates.com/dkk/htg/</link>
+<description>1 Danish Krone = 14.22348094 Haitian gourde</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>HTG</targetCurrency>
+<targetName>Haitian gourde</targetName>
+<exchangeRate>14.22348094</exchangeRate>
+<inverseRate>0.07030628</inverseRate>
+<inverseDescription>1 Haitian gourde = 0.07030628 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 1.15993628 MOP</title>
+<link>http://www.floatrates.com/dkk/mop/</link>
+<description>1 Danish Krone = 1.15993628 Macanese pataca</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>MOP</targetCurrency>
+<targetName>Macanese pataca</targetName>
+<exchangeRate>1.15993628</exchangeRate>
+<inverseRate>0.86211632</inverseRate>
+<inverseDescription>1 Macanese pataca = 0.86211632 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.39836195 WST</title>
+<link>http://www.floatrates.com/dkk/wst/</link>
+<description>1 Danish Krone = 0.39836195 Samoan tala</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>WST</targetCurrency>
+<targetName>Samoan tala</targetName>
+<exchangeRate>0.39836195</exchangeRate>
+<inverseRate>2.51027988</inverseRate>
+<inverseDescription>1 Samoan tala = 2.51027988 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 1.50858460 NOK</title>
+<link>http://www.floatrates.com/dkk/nok/</link>
+<description>1 Danish Krone = 1.50858460 Norwegian Krone</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>NOK</targetCurrency>
+<targetName>Norwegian Krone</targetName>
+<exchangeRate>1.50858460</exchangeRate>
+<inverseRate>0.66287300</inverseRate>
+<inverseDescription>1 Norwegian Krone = 0.66287300 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 1.01592168 TRY</title>
+<link>http://www.floatrates.com/dkk/try/</link>
+<description>1 Danish Krone = 1.01592168 Turkish Lira</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>TRY</targetCurrency>
+<targetName>Turkish Lira</targetName>
+<exchangeRate>1.01592168</exchangeRate>
+<inverseRate>0.98432785</inverseRate>
+<inverseDescription>1 Turkish Lira = 0.98432785 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 12.25566758 BDT</title>
+<link>http://www.floatrates.com/dkk/bdt/</link>
+<description>1 Danish Krone = 12.25566758 Bangladeshi taka</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>BDT</targetCurrency>
+<targetName>Bangladeshi taka</targetName>
+<exchangeRate>12.25566758</exchangeRate>
+<inverseRate>0.08159490</inverseRate>
+<inverseDescription>1 Bangladeshi taka = 0.08159490 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.41566530 TND</title>
+<link>http://www.floatrates.com/dkk/tnd/</link>
+<description>1 Danish Krone = 0.41566530 Tunisian Dinar</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>TND</targetCurrency>
+<targetName>Tunisian Dinar</targetName>
+<exchangeRate>0.41566530</exchangeRate>
+<inverseRate>2.40578174</inverseRate>
+<inverseDescription>1 Tunisian Dinar = 2.40578174 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 1.27218818 SVC</title>
+<link>http://www.floatrates.com/dkk/svc/</link>
+<description>1 Danish Krone = 1.27218818 Salvadoran colon</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>SVC</targetCurrency>
+<targetName>Salvadoran colon</targetName>
+<exchangeRate>1.27218818</exchangeRate>
+<inverseRate>0.78604724</inverseRate>
+<inverseDescription>1 Salvadoran colon = 0.78604724 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 14.92242349 CVE</title>
+<link>http://www.floatrates.com/dkk/cve/</link>
+<description>1 Danish Krone = 14.92242349 Cape Verde escudo</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>CVE</targetCurrency>
+<targetName>Cape Verde escudo</targetName>
+<exchangeRate>14.92242349</exchangeRate>
+<inverseRate>0.06701324</inverseRate>
+<inverseDescription>1 Cape Verde escudo = 0.06701324 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 107.24750767 MWK</title>
+<link>http://www.floatrates.com/dkk/mwk/</link>
+<description>1 Danish Krone = 107.24750767 Malawian kwacha</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>MWK</targetCurrency>
+<targetName>Malawian kwacha</targetName>
+<exchangeRate>107.24750767</exchangeRate>
+<inverseRate>0.00932423</inverseRate>
+<inverseDescription>1 Malawian kwacha = 0.00932423 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 1.12117895 GTQ</title>
+<link>http://www.floatrates.com/dkk/gtq/</link>
+<description>1 Danish Krone = 1.12117895 Guatemalan Quetzal</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>GTQ</targetCurrency>
+<targetName>Guatemalan Quetzal</targetName>
+<exchangeRate>1.12117895</exchangeRate>
+<inverseRate>0.89191828</inverseRate>
+<inverseDescription>1 Guatemalan Quetzal = 0.89191828 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.26462578 BAM</title>
+<link>http://www.floatrates.com/dkk/bam/</link>
+<description>1 Danish Krone = 0.26462578 Bosnia and Herzegovina convertible mark</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>BAM</targetCurrency>
+<targetName>Bosnia and Herzegovina convertible mark</targetName>
+<exchangeRate>0.26462578</exchangeRate>
+<inverseRate>3.77892126</inverseRate>
+<inverseDescription>1 Bosnia and Herzegovina convertible mark = 3.77892126 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 1.77057322 BWP</title>
+<link>http://www.floatrates.com/dkk/bwp/</link>
+<description>1 Danish Krone = 1.77057322 Botswana Pula</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>BWP</targetCurrency>
+<targetName>Botswana Pula</targetName>
+<exchangeRate>1.77057322</exchangeRate>
+<inverseRate>0.56478884</inverseRate>
+<inverseDescription>1 Botswana Pula = 0.56478884 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 10.67322750 RUB</title>
+<link>http://www.floatrates.com/dkk/rub/</link>
+<description>1 Danish Krone = 10.67322750 Russian Rouble</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>RUB</targetCurrency>
+<targetName>Russian Rouble</targetName>
+<exchangeRate>10.67322750</exchangeRate>
+<inverseRate>0.09369237</inverseRate>
+<inverseDescription>1 Russian Rouble = 0.09369237 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 2,210.52540337 IDR</title>
+<link>http://www.floatrates.com/dkk/idr/</link>
+<description>1 Danish Krone = 2,210.52540337 Indonesian Rupiah</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>IDR</targetCurrency>
+<targetName>Indonesian Rupiah</targetName>
+<exchangeRate>2,210.52540337</exchangeRate>
+<inverseRate>0.00045238</inverseRate>
+<inverseDescription>1 Indonesian Rupiah = 0.00045238 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 61.90435948 KZT</title>
+<link>http://www.floatrates.com/dkk/kzt/</link>
+<description>1 Danish Krone = 61.90435948 Kazakhstani Tenge</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>KZT</targetCurrency>
+<targetName>Kazakhstani Tenge</targetName>
+<exchangeRate>61.90435948</exchangeRate>
+<inverseRate>0.01615395</inverseRate>
+<inverseDescription>1 Kazakhstani Tenge = 0.01615395 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.46691193 GEL</title>
+<link>http://www.floatrates.com/dkk/gel/</link>
+<description>1 Danish Krone = 0.46691193 Georgian lari</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>GEL</targetCurrency>
+<targetName>Georgian lari</targetName>
+<exchangeRate>0.46691193</exchangeRate>
+<inverseRate>2.14173154</inverseRate>
+<inverseDescription>1 Georgian lari = 2.14173154 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.05494325 BHD</title>
+<link>http://www.floatrates.com/dkk/bhd/</link>
+<description>1 Danish Krone = 0.05494325 Bahrain Dinar</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>BHD</targetCurrency>
+<targetName>Bahrain Dinar</targetName>
+<exchangeRate>0.05494325</exchangeRate>
+<inverseRate>18.20059937</inverseRate>
+<inverseDescription>1 Bahrain Dinar = 18.20059937 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 15.95289422 XPF</title>
+<link>http://www.floatrates.com/dkk/xpf/</link>
+<description>1 Danish Krone = 15.95289422 CFP Franc</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>XPF</targetCurrency>
+<targetName>CFP Franc</targetName>
+<exchangeRate>15.95289422</exchangeRate>
+<inverseRate>0.06268455</inverseRate>
+<inverseDescription>1 CFP Franc = 0.06268455 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 204.90642238 MMK</title>
+<link>http://www.floatrates.com/dkk/mmk/</link>
+<description>1 Danish Krone = 204.90642238 Myanma Kyat</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>MMK</targetCurrency>
+<targetName>Myanma Kyat</targetName>
+<exchangeRate>204.90642238</exchangeRate>
+<inverseRate>0.00488028</inverseRate>
+<inverseDescription>1 Myanma Kyat = 0.00488028 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.05595874 OMR</title>
+<link>http://www.floatrates.com/dkk/omr/</link>
+<description>1 Danish Krone = 0.05595874 Omani Rial</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>OMR</targetCurrency>
+<targetName>Omani Rial</targetName>
+<exchangeRate>0.05595874</exchangeRate>
+<inverseRate>17.87030806</inverseRate>
+<inverseDescription>1 Omani Rial = 17.87030806 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 123.38206657 CLP</title>
+<link>http://www.floatrates.com/dkk/clp/</link>
+<description>1 Danish Krone = 123.38206657 Chilean Peso</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>CLP</targetCurrency>
+<targetName>Chilean Peso</targetName>
+<exchangeRate>123.38206657</exchangeRate>
+<inverseRate>0.00810491</inverseRate>
+<inverseDescription>1 Chilean Peso = 0.00810491 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 1.43668113 SEK</title>
+<link>http://www.floatrates.com/dkk/sek/</link>
+<description>1 Danish Krone = 1.43668113 Swedish Krona</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>SEK</targetCurrency>
+<targetName>Swedish Krona</targetName>
+<exchangeRate>1.43668113</exchangeRate>
+<inverseRate>0.69604868</inverseRate>
+<inverseDescription>1 Swedish Krona = 0.69604868 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 7.35006715 PHP</title>
+<link>http://www.floatrates.com/dkk/php/</link>
+<description>1 Danish Krone = 7.35006715 Philippine Peso</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>PHP</targetCurrency>
+<targetName>Philippine Peso</targetName>
+<exchangeRate>7.35006715</exchangeRate>
+<inverseRate>0.13605318</inverseRate>
+<inverseDescription>1 Philippine Peso = 0.13605318 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 1.48770753 TJS</title>
+<link>http://www.floatrates.com/dkk/tjs/</link>
+<description>1 Danish Krone = 1.48770753 Tajikistan Ruble</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>TJS</targetCurrency>
+<targetName>Tajikistan Ruble</targetName>
+<exchangeRate>1.48770753</exchangeRate>
+<inverseRate>0.67217513</inverseRate>
+<inverseDescription>1 Tajikistan Ruble = 0.67217513 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 949.93179466 PYG</title>
+<link>http://www.floatrates.com/dkk/pyg/</link>
+<description>1 Danish Krone = 949.93179466 Paraguayan Guaraní</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>PYG</targetCurrency>
+<targetName>Paraguayan Guaraní</targetName>
+<exchangeRate>949.93179466</exchangeRate>
+<inverseRate>0.00105271</inverseRate>
+<inverseDescription>1 Paraguayan Guaraní = 0.00105271 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.29292111 BZD</title>
+<link>http://www.floatrates.com/dkk/bzd/</link>
+<description>1 Danish Krone = 0.29292111 Belize dollar</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>BZD</targetCurrency>
+<targetName>Belize dollar</targetName>
+<exchangeRate>0.29292111</exchangeRate>
+<inverseRate>3.41388843</inverseRate>
+<inverseDescription>1 Belize dollar = 3.41388843 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 64.37806190 KMF</title>
+<link>http://www.floatrates.com/dkk/kmf/</link>
+<description>1 Danish Krone = 64.37806190 Comoro franc</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>KMF</targetCurrency>
+<targetName> Comoro franc</targetName>
+<exchangeRate>64.37806190</exchangeRate>
+<inverseRate>0.01553324</inverseRate>
+<inverseDescription>1 Comoro franc = 0.01553324 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 1,409.14764721 SLL</title>
+<link>http://www.floatrates.com/dkk/sll/</link>
+<description>1 Danish Krone = 1,409.14764721 Sierra Leonean leone</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>SLL</targetCurrency>
+<targetName>Sierra Leonean leone</targetName>
+<exchangeRate>1,409.14764721</exchangeRate>
+<inverseRate>0.00070965</inverseRate>
+<inverseDescription>1 Sierra Leonean leone = 0.00070965 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 2.24692059 MVR</title>
+<link>http://www.floatrates.com/dkk/mvr/</link>
+<description>1 Danish Krone = 2.24692059 Maldivian rufiyaa</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>MVR</targetCurrency>
+<targetName>Maldivian rufiyaa</targetName>
+<exchangeRate>2.24692059</exchangeRate>
+<inverseRate>0.44505356</inverseRate>
+<inverseDescription>1 Maldivian rufiyaa = 0.44505356 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.53396594 AED</title>
+<link>http://www.floatrates.com/dkk/aed/</link>
+<description>1 Danish Krone = 0.53396594 U.A.E Dirham</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>AED</targetCurrency>
+<targetName>U.A.E Dirham</targetName>
+<exchangeRate>0.53396594</exchangeRate>
+<inverseRate>1.87277861</inverseRate>
+<inverseDescription>1 U.A.E Dirham = 1.87277861 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 4.33994340 TWD</title>
+<link>http://www.floatrates.com/dkk/twd/</link>
+<description>1 Danish Krone = 4.33994340 New Taiwan Dollar </description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>TWD</targetCurrency>
+<targetName>New Taiwan Dollar </targetName>
+<exchangeRate>4.33994340</exchangeRate>
+<inverseRate>0.23041775</inverseRate>
+<inverseDescription>1 New Taiwan Dollar = 0.23041775 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 3.92315997 UAH</title>
+<link>http://www.floatrates.com/dkk/uah/</link>
+<description>1 Danish Krone = 3.92315997 Ukrainian Hryvnia</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>UAH</targetCurrency>
+<targetName>Ukrainian Hryvnia</targetName>
+<exchangeRate>3.92315997</exchangeRate>
+<inverseRate>0.25489656</inverseRate>
+<inverseDescription>1 Ukrainian Hryvnia = 0.25489656 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 1.00024274 BOB</title>
+<link>http://www.floatrates.com/dkk/bob/</link>
+<description>1 Danish Krone = 1.00024274 Bolivian Boliviano</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>BOB</targetCurrency>
+<targetName>Bolivian Boliviano</targetName>
+<exchangeRate>1.00024274</exchangeRate>
+<inverseRate>0.99975732</inverseRate>
+<inverseDescription>1 Bolivian Boliviano = 0.99975732 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 20.58788596 JMD</title>
+<link>http://www.floatrates.com/dkk/jmd/</link>
+<description>1 Danish Krone = 20.58788596 Jamaican Dollar</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>JMD</targetCurrency>
+<targetName>Jamaican Dollar</targetName>
+<exchangeRate>20.58788596</exchangeRate>
+<inverseRate>0.04857225</inverseRate>
+<inverseDescription>1 Jamaican Dollar = 0.04857225 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.11675849 GIP</title>
+<link>http://www.floatrates.com/dkk/gip/</link>
+<description>1 Danish Krone = 0.11675849 Gibraltar pound</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>GIP</targetCurrency>
+<targetName>Gibraltar pound</targetName>
+<exchangeRate>0.11675849</exchangeRate>
+<inverseRate>8.56468769</inverseRate>
+<inverseDescription>1 Gibraltar pound = 8.56468769 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 9.89157388 MZN</title>
+<link>http://www.floatrates.com/dkk/mzn/</link>
+<description>1 Danish Krone = 9.89157388 Mozambican metical</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>MZN</targetCurrency>
+<targetName>Mozambican metical</targetName>
+<exchangeRate>9.89157388</exchangeRate>
+<inverseRate>0.10109615</inverseRate>
+<inverseDescription>1 Mozambican metical = 0.10109615 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 15.60008826 KES</title>
+<link>http://www.floatrates.com/dkk/kes/</link>
+<description>1 Danish Krone = 15.60008826 Kenyan shilling</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>KES</targetCurrency>
+<targetName>Kenyan shilling</targetName>
+<exchangeRate>15.60008826</exchangeRate>
+<inverseRate>0.06410220</inverseRate>
+<inverseDescription>1 Kenyan shilling = 0.06410220 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.04494777 KWD</title>
+<link>http://www.floatrates.com/dkk/kwd/</link>
+<description>1 Danish Krone = 0.04494777 Kuwaiti Dinar</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>KWD</targetCurrency>
+<targetName>Kuwaiti Dinar</targetName>
+<exchangeRate>0.04494777</exchangeRate>
+<inverseRate>22.24804696</inverseRate>
+<inverseDescription>1 Kuwaiti Dinar = 22.24804696 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 47.50875133 HUF</title>
+<link>http://www.floatrates.com/dkk/huf/</link>
+<description>1 Danish Krone = 47.50875133 Hungarian Forint</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>HUF</targetCurrency>
+<targetName>Hungarian Forint</targetName>
+<exchangeRate>47.50875133</exchangeRate>
+<inverseRate>0.02104875</inverseRate>
+<inverseDescription>1 Hungarian Forint = 0.02104875 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 52.42876462 NGN</title>
+<link>http://www.floatrates.com/dkk/ngn/</link>
+<description>1 Danish Krone = 52.42876462 Nigerian Naira</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>NGN</targetCurrency>
+<targetName>Nigerian Naira</targetName>
+<exchangeRate>52.42876462</exchangeRate>
+<inverseRate>0.01907350</inverseRate>
+<inverseDescription>1 Nigerian Naira = 0.01907350 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 171.27499352 IQD</title>
+<link>http://www.floatrates.com/dkk/iqd/</link>
+<description>1 Danish Krone = 171.27499352 Iraqi dinar</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>IQD</targetCurrency>
+<targetName>Iraqi dinar</targetName>
+<exchangeRate>171.27499352</exchangeRate>
+<inverseRate>0.00583856</inverseRate>
+<inverseDescription>1 Iraqi dinar = 0.00583856 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 11.05807469 AFN</title>
+<link>http://www.floatrates.com/dkk/afn/</link>
+<description>1 Danish Krone = 11.05807469 Afghan afghani</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>AFN</targetCurrency>
+<targetName>Afghan afghani</targetName>
+<exchangeRate>11.05807469</exchangeRate>
+<inverseRate>0.09043166</inverseRate>
+<inverseDescription>1 Afghan afghani = 0.09043166 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 1.08628624 SRD</title>
+<link>http://www.floatrates.com/dkk/srd/</link>
+<description>1 Danish Krone = 1.08628624 Surinamese dollar</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>SRD</targetCurrency>
+<targetName>Surinamese dollar</targetName>
+<exchangeRate>1.08628624</exchangeRate>
+<inverseRate>0.92056768</inverseRate>
+<inverseDescription>1 Surinamese dollar = 0.92056768 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 74.98057234 SYP</title>
+<link>http://www.floatrates.com/dkk/syp/</link>
+<description>1 Danish Krone = 74.98057234 Syrian pound</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>SYP</targetCurrency>
+<targetName>Syrian pound</targetName>
+<exchangeRate>74.98057234</exchangeRate>
+<inverseRate>0.01333679</inverseRate>
+<inverseDescription>1 Syrian pound = 0.01333679 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.33554842 TOP</title>
+<link>http://www.floatrates.com/dkk/top/</link>
+<description>1 Danish Krone = 0.33554842 Tongan paʻanga</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>TOP</targetCurrency>
+<targetName>Tongan paʻanga</targetName>
+<exchangeRate>0.33554842</exchangeRate>
+<inverseRate>2.98019584</inverseRate>
+<inverseDescription>1 Tongan paʻanga = 2.98019584 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 553.13536972 UGX</title>
+<link>http://www.floatrates.com/dkk/ugx/</link>
+<description>1 Danish Krone = 553.13536972 Ugandan shilling</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>UGX</targetCurrency>
+<targetName>Ugandan shilling</targetName>
+<exchangeRate>553.13536972</exchangeRate>
+<inverseRate>0.00180788</inverseRate>
+<inverseDescription>1 Ugandan shilling = 0.00180788 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 1.02853722 CNY</title>
+<link>http://www.floatrates.com/dkk/cny/</link>
+<description>1 Danish Krone = 1.02853722 Chinese Yuan</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>CNY</targetCurrency>
+<targetName>Chinese Yuan</targetName>
+<exchangeRate>1.02853722</exchangeRate>
+<inverseRate>0.97225456</inverseRate>
+<inverseDescription>1 Chinese Yuan = 0.97225456 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.23832041 NZD</title>
+<link>http://www.floatrates.com/dkk/nzd/</link>
+<description>1 Danish Krone = 0.23832041 New Zealand Dollar</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>NZD</targetCurrency>
+<targetName>New Zealand Dollar</targetName>
+<exchangeRate>0.23832041</exchangeRate>
+<inverseRate>4.19603179</inverseRate>
+<inverseDescription>1 New Zealand Dollar = 4.19603179 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 1.01519310 HRK</title>
+<link>http://www.floatrates.com/dkk/hrk/</link>
+<description>1 Danish Krone = 1.01519310 Croatian Kuna</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>HRK</targetCurrency>
+<targetName>Croatian Kuna</targetName>
+<exchangeRate>1.01519310</exchangeRate>
+<inverseRate>0.98503427</inverseRate>
+<inverseDescription>1 Croatian Kuna = 0.98503427 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.35152137 BYN</title>
+<link>http://www.floatrates.com/dkk/byn/</link>
+<description>1 Danish Krone = 0.35152137 Belarussian Ruble</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>BYN</targetCurrency>
+<targetName>Belarussian Ruble</targetName>
+<exchangeRate>0.35152137</exchangeRate>
+<inverseRate>2.84477728</inverseRate>
+<inverseDescription>1 Belarussian Ruble = 2.84477728 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 1.43987401 MAD</title>
+<link>http://www.floatrates.com/dkk/mad/</link>
+<description>1 Danish Krone = 1.43987401 Moroccan Dirham</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>MAD</targetCurrency>
+<targetName>Moroccan Dirham</targetName>
+<exchangeRate>1.43987401</exchangeRate>
+<inverseRate>0.69450521</inverseRate>
+<inverseDescription>1 Moroccan Dirham = 0.69450521 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 4.86652753 ETB</title>
+<link>http://www.floatrates.com/dkk/etb/</link>
+<description>1 Danish Krone = 4.86652753 Ethiopian birr</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>ETB</targetCurrency>
+<targetName>Ethiopian birr</targetName>
+<exchangeRate>4.86652753</exchangeRate>
+<inverseRate>0.20548533</inverseRate>
+<inverseDescription>1 Ethiopian birr = 0.20548533 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 1.19720606 SBD</title>
+<link>http://www.floatrates.com/dkk/sbd/</link>
+<description>1 Danish Krone = 1.19720606 Solomon Islands dollar</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>SBD</targetCurrency>
+<targetName>Solomon Islands dollar</targetName>
+<exchangeRate>1.19720606</exchangeRate>
+<inverseRate>0.83527810</inverseRate>
+<inverseDescription>1 Solomon Islands dollar = 0.83527810 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 1,306.11319559 LAK</title>
+<link>http://www.floatrates.com/dkk/lak/</link>
+<description>1 Danish Krone = 1,306.11319559 Lao kip</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>LAK</targetCurrency>
+<targetName>Lao kip</targetName>
+<exchangeRate>1,306.11319559</exchangeRate>
+<inverseRate>0.00076563</inverseRate>
+<inverseDescription>1 Lao kip = 0.00076563 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.14527295 CUP</title>
+<link>http://www.floatrates.com/dkk/cup/</link>
+<description>1 Danish Krone = 0.14527295 Cuban peso</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>CUP</targetCurrency>
+<targetName>Cuban peso</targetName>
+<exchangeRate>0.14527295</exchangeRate>
+<inverseRate>6.88359379</inverseRate>
+<inverseDescription>1 Cuban peso = 6.88359379 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 17.43534007 VUV</title>
+<link>http://www.floatrates.com/dkk/vuv/</link>
+<description>1 Danish Krone = 17.43534007 Vanuatu vatu</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>VUV</targetCurrency>
+<targetName>Vanuatu vatu</targetName>
+<exchangeRate>17.43534007</exchangeRate>
+<inverseRate>0.05735477</inverseRate>
+<inverseDescription>1 Vanuatu vatu = 0.05735477 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.54647010 SAR</title>
+<link>http://www.floatrates.com/dkk/sar/</link>
+<description>1 Danish Krone = 0.54647010 Saudi Riyal</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>SAR</targetCurrency>
+<targetName>Saudi Riyal</targetName>
+<exchangeRate>0.54647010</exchangeRate>
+<inverseRate>1.82992630</inverseRate>
+<inverseDescription>1 Saudi Riyal = 1.82992630 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 1.12809911 HKD</title>
+<link>http://www.floatrates.com/dkk/hkd/</link>
+<description>1 Danish Krone = 1.12809911 Hong Kong Dollar</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>HKD</targetCurrency>
+<targetName>Hong Kong Dollar</targetName>
+<exchangeRate>1.12809911</exchangeRate>
+<inverseRate>0.88644694</inverseRate>
+<inverseDescription>1 Hong Kong Dollar = 0.88644694 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 69.93944352 AMD</title>
+<link>http://www.floatrates.com/dkk/amd/</link>
+<description>1 Danish Krone = 69.93944352 Armenia Dram</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>AMD</targetCurrency>
+<targetName>Armenia Dram</targetName>
+<exchangeRate>69.93944352</exchangeRate>
+<inverseRate>0.01429808</inverseRate>
+<inverseDescription>1 Armenia Dram = 0.01429808 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 15.57244400 RSD</title>
+<link>http://www.floatrates.com/dkk/rsd/</link>
+<description>1 Danish Krone = 15.57244400 Serbian Dinar</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>RSD</targetCurrency>
+<targetName>Serbian Dinar</targetName>
+<exchangeRate>15.57244400</exchangeRate>
+<inverseRate>0.06421600</inverseRate>
+<inverseDescription>1 Serbian Dinar = 0.06421600 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 8.23817039 MKD</title>
+<link>http://www.floatrates.com/dkk/mkd/</link>
+<description>1 Danish Krone = 8.23817039 Macedonian denar</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>MKD</targetCurrency>
+<targetName>Macedonian denar</targetName>
+<exchangeRate>8.23817039</exchangeRate>
+<inverseRate>0.12138618</inverseRate>
+<inverseDescription>1 Macedonian denar = 0.12138618 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 274.94007965 BIF</title>
+<link>http://www.floatrates.com/dkk/bif/</link>
+<description>1 Danish Krone = 274.94007965 Burundian franc</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>BIF</targetCurrency>
+<targetName>Burundian franc</targetName>
+<exchangeRate>274.94007965</exchangeRate>
+<inverseRate>0.00363716</inverseRate>
+<inverseDescription>1 Burundian franc = 0.00363716 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 82.07332918 AOA</title>
+<link>http://www.floatrates.com/dkk/aoa/</link>
+<description>1 Danish Krone = 82.07332918 Angolan kwanza</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>AOA</targetCurrency>
+<targetName>Angolan kwanza</targetName>
+<exchangeRate>82.07332918</exchangeRate>
+<inverseRate>0.01218423</inverseRate>
+<inverseDescription>1 Angolan kwanza = 0.01218423 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.52909020 QAR</title>
+<link>http://www.floatrates.com/dkk/qar/</link>
+<description>1 Danish Krone = 0.52909020 Qatari Rial</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>QAR</targetCurrency>
+<targetName>Qatari Rial</targetName>
+<exchangeRate>0.52909020</exchangeRate>
+<inverseRate>1.89003691</inverseRate>
+<inverseDescription>1 Qatari Rial = 1.89003691 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 2.66547618 ZAR</title>
+<link>http://www.floatrates.com/dkk/zar/</link>
+<description>1 Danish Krone = 2.66547618 South African Rand</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>ZAR</targetCurrency>
+<targetName>South African Rand</targetName>
+<exchangeRate>2.66547618</exchangeRate>
+<inverseRate>0.37516749</inverseRate>
+<inverseDescription>1 South African Rand = 0.37516749 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 3.49765180 MXN</title>
+<link>http://www.floatrates.com/dkk/mxn/</link>
+<description>1 Danish Krone = 3.49765180 Mexican Peso</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>MXN</targetCurrency>
+<targetName>Mexican Peso</targetName>
+<exchangeRate>3.49765180</exchangeRate>
+<inverseRate>0.28590610</inverseRate>
+<inverseDescription>1 Mexican Peso = 0.28590610 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 2.60281167 MDL</title>
+<link>http://www.floatrates.com/dkk/mdl/</link>
+<description>1 Danish Krone = 2.60281167 Moldova Lei</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>MDL</targetCurrency>
+<targetName>Moldova Lei</targetName>
+<exchangeRate>2.60281167</exchangeRate>
+<inverseRate>0.38419991</inverseRate>
+<inverseDescription>1 Moldova Lei = 0.38419991 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 9.69267812 ARS</title>
+<link>http://www.floatrates.com/dkk/ars/</link>
+<description>1 Danish Krone = 9.69267812 Argentine Peso</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>ARS</targetCurrency>
+<targetName>Argentine Peso</targetName>
+<exchangeRate>9.69267812</exchangeRate>
+<inverseRate>0.10317066</inverseRate>
+<inverseDescription>1 Argentine Peso = 0.10317066 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.14527295 BSD</title>
+<link>http://www.floatrates.com/dkk/bsd/</link>
+<description>1 Danish Krone = 0.14527295 Bahamian Dollar</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>BSD</targetCurrency>
+<targetName>Bahamian Dollar</targetName>
+<exchangeRate>0.14527295</exchangeRate>
+<inverseRate>6.88359379</inverseRate>
+<inverseDescription>1 Bahamian Dollar = 6.88359379 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 1,389.80008226 GNF</title>
+<link>http://www.floatrates.com/dkk/gnf/</link>
+<description>1 Danish Krone = 1,389.80008226 Guinean franc</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>GNF</targetCurrency>
+<targetName>Guinean franc</targetName>
+<exchangeRate>1,389.80008226</exchangeRate>
+<inverseRate>0.00071953</inverseRate>
+<inverseDescription>1 Guinean franc = 0.00071953 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 3.60440734 HNL</title>
+<link>http://www.floatrates.com/dkk/hnl/</link>
+<description>1 Danish Krone = 3.60440734 Honduran Lempira</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>HNL</targetCurrency>
+<targetName>Honduran Lempira</targetName>
+<exchangeRate>3.60440734</exchangeRate>
+<inverseRate>0.27743812</inverseRate>
+<inverseDescription>1 Honduran Lempira = 0.27743812 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 27.90070911 LKR</title>
+<link>http://www.floatrates.com/dkk/lkr/</link>
+<description>1 Danish Krone = 27.90070911 Sri Lanka Rupee</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>LKR</targetCurrency>
+<targetName>Sri Lanka Rupee</targetName>
+<exchangeRate>27.90070911</exchangeRate>
+<inverseRate>0.03584138</inverseRate>
+<inverseDescription>1 Sri Lanka Rupee = 0.03584138 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 3.63705569 CZK</title>
+<link>http://www.floatrates.com/dkk/czk/</link>
+<description>1 Danish Krone = 3.63705569 Czech Koruna</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>CZK</targetCurrency>
+<targetName>Czech Koruna</targetName>
+<exchangeRate>3.63705569</exchangeRate>
+<inverseRate>0.27494767</inverseRate>
+<inverseDescription>1 Czech Koruna = 0.27494767 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 4.71273087 THB</title>
+<link>http://www.floatrates.com/dkk/thb/</link>
+<description>1 Danish Krone = 4.71273087 Thai Baht</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>THB</targetCurrency>
+<targetName>Thai Baht</targetName>
+<exchangeRate>4.71273087</exchangeRate>
+<inverseRate>0.21219120</inverseRate>
+<inverseDescription>1 Thai Baht = 0.21219120 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 89.48979843 XOF</title>
+<link>http://www.floatrates.com/dkk/xof/</link>
+<description>1 Danish Krone = 89.48979843 West African CFA Franc</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>XOF</targetCurrency>
+<targetName>West African CFA Franc</targetName>
+<exchangeRate>89.48979843</exchangeRate>
+<inverseRate>0.01117446</inverseRate>
+<inverseDescription>1 West African CFA Franc = 0.01117446 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 1,463.27166195 UZS</title>
+<link>http://www.floatrates.com/dkk/uzs/</link>
+<description>1 Danish Krone = 1,463.27166195 Uzbekistan Sum</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>UZS</targetCurrency>
+<targetName>Uzbekistan Sum</targetName>
+<exchangeRate>1,463.27166195</exchangeRate>
+<inverseRate>0.00068340</inverseRate>
+<inverseDescription>1 Uzbekistan Sum = 0.00068340 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 25,133.41229081 VES</title>
+<link>http://www.floatrates.com/dkk/ves/</link>
+<description>1 Danish Krone = 25,133.41229081 Venezuelan Bolivar</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>VES</targetCurrency>
+<targetName>Venezuelan Bolivar</targetName>
+<exchangeRate>25,133.41229081</exchangeRate>
+<inverseRate>0.00003979</inverseRate>
+<inverseDescription>1 Venezuelan Bolivar = 0.00003979 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 30.39752933 GYD</title>
+<link>http://www.floatrates.com/dkk/gyd/</link>
+<description>1 Danish Krone = 30.39752933 Guyanese dollar</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>GYD</targetCurrency>
+<targetName>Guyanese dollar</targetName>
+<exchangeRate>30.39752933</exchangeRate>
+<inverseRate>0.03289741</inverseRate>
+<inverseDescription>1 Guyanese dollar = 0.03289741 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 138.47301321 RWF</title>
+<link>http://www.floatrates.com/dkk/rwf/</link>
+<description>1 Danish Krone = 138.47301321 Rwandan franc</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>RWF</targetCurrency>
+<targetName>Rwandan franc</targetName>
+<exchangeRate>138.47301321</exchangeRate>
+<inverseRate>0.00722162</inverseRate>
+<inverseDescription>1 Rwandan franc = 0.00722162 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 2.68379424 LSL</title>
+<link>http://www.floatrates.com/dkk/lsl/</link>
+<description>1 Danish Krone = 2.68379424 Lesotho loti</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>LSL</targetCurrency>
+<targetName>Lesotho loti</targetName>
+<exchangeRate>2.68379424</exchangeRate>
+<inverseRate>0.37260681</inverseRate>
+<inverseDescription>1 Lesotho loti = 0.37260681 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 2.54224628 SCR</title>
+<link>http://www.floatrates.com/dkk/scr/</link>
+<description>1 Danish Krone = 2.54224628 Seychelles rupee</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>SCR</targetCurrency>
+<targetName>Seychelles rupee</targetName>
+<exchangeRate>2.54224628</exchangeRate>
+<inverseRate>0.39335292</inverseRate>
+<inverseDescription>1 Seychelles rupee = 0.39335292 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 177.06667380 KRW</title>
+<link>http://www.floatrates.com/dkk/krw/</link>
+<description>1 Danish Krone = 177.06667380 South Korean Won</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>KRW</targetCurrency>
+<targetName>South Korean Won</targetName>
+<exchangeRate>177.06667380</exchangeRate>
+<inverseRate>0.00564759</inverseRate>
+<inverseDescription>1 South Korean Won = 0.00564759 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.26215992 BGN</title>
+<link>http://www.floatrates.com/dkk/bgn/</link>
+<description>1 Danish Krone = 0.26215992 Bulgarian Lev</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>BGN</targetCurrency>
+<targetName>Bulgarian Lev</targetName>
+<exchangeRate>0.26215992</exchangeRate>
+<inverseRate>3.81446565</inverseRate>
+<inverseDescription>1 Bulgarian Lev = 3.81446565 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.50069236 PGK</title>
+<link>http://www.floatrates.com/dkk/pgk/</link>
+<description>1 Danish Krone = 0.50069236 Papua New Guinean kina</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>PGK</targetCurrency>
+<targetName>Papua New Guinean kina</targetName>
+<exchangeRate>0.50069236</exchangeRate>
+<inverseRate>1.99723439</inverseRate>
+<inverseDescription>1 Papua New Guinean kina = 1.99723439 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 6,020.41632109 IRR</title>
+<link>http://www.floatrates.com/dkk/irr/</link>
+<description>1 Danish Krone = 6,020.41632109 Iranian rial</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>IRR</targetCurrency>
+<targetName>Iranian rial</targetName>
+<exchangeRate>6,020.41632109</exchangeRate>
+<inverseRate>0.00016610</inverseRate>
+<inverseDescription>1 Iranian rial = 0.00016610 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 4.93739190 NIO</title>
+<link>http://www.floatrates.com/dkk/nio/</link>
+<description>1 Danish Krone = 4.93739190 Nicaraguan Córdoba</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>NIO</targetCurrency>
+<targetName>Nicaraguan Córdoba</targetName>
+<exchangeRate>4.93739190</exchangeRate>
+<inverseRate>0.20253608</inverseRate>
+<inverseDescription>1 Nicaraguan Córdoba = 0.20253608 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 2.68498071 NAD</title>
+<link>http://www.floatrates.com/dkk/nad/</link>
+<description>1 Danish Krone = 2.68498071 Namibian dollar</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>NAD</targetCurrency>
+<targetName>Namibian dollar</targetName>
+<exchangeRate>2.68498071</exchangeRate>
+<inverseRate>0.37244215</inverseRate>
+<inverseDescription>1 Namibian dollar = 0.37244215 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 8.01243583 SDG</title>
+<link>http://www.floatrates.com/dkk/sdg/</link>
+<description>1 Danish Krone = 8.01243583 Sudanese pound</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>SDG</targetCurrency>
+<targetName>Sudanese pound</targetName>
+<exchangeRate>8.01243583</exchangeRate>
+<inverseRate>0.12480599</inverseRate>
+<inverseDescription>1 Sudanese pound = 0.12480599 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 5.51127619 MRU</title>
+<link>http://www.floatrates.com/dkk/mru/</link>
+<description>1 Danish Krone = 5.51127619 Mauritanian ouguiya</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>MRU</targetCurrency>
+<targetName>Mauritanian ouguiya</targetName>
+<exchangeRate>5.51127619</exchangeRate>
+<inverseRate>0.18144618</inverseRate>
+<inverseDescription>1 Mauritanian ouguiya = 0.18144618 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 336.29160352 TZS</title>
+<link>http://www.floatrates.com/dkk/tzs/</link>
+<description>1 Danish Krone = 336.29160352 Tanzanian shilling</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>TZS</targetCurrency>
+<targetName>Tanzanian shilling</targetName>
+<exchangeRate>336.29160352</exchangeRate>
+<inverseRate>0.00297361</inverseRate>
+<inverseDescription>1 Tanzanian shilling = 0.00297361 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 5.83467959 MUR</title>
+<link>http://www.floatrates.com/dkk/mur/</link>
+<description>1 Danish Krone = 5.83467959 Mauritian Rupee</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>MUR</targetCurrency>
+<targetName>Mauritian Rupee</targetName>
+<exchangeRate>5.83467959</exchangeRate>
+<inverseRate>0.17138902</inverseRate>
+<inverseDescription>1 Mauritian Rupee = 0.17138902 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 21.40239166 ISK</title>
+<link>http://www.floatrates.com/dkk/isk/</link>
+<description>1 Danish Krone = 21.40239166 Icelandic Krona</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>ISK</targetCurrency>
+<targetName>Icelandic Krona</targetName>
+<exchangeRate>21.40239166</exchangeRate>
+<inverseRate>0.04672375</inverseRate>
+<inverseDescription>1 Icelandic Krona = 0.04672375 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 23.46645754 PKR</title>
+<link>http://www.floatrates.com/dkk/pkr/</link>
+<description>1 Danish Krone = 23.46645754 Pakistani Rupee</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>PKR</targetCurrency>
+<targetName>Pakistani Rupee</targetName>
+<exchangeRate>23.46645754</exchangeRate>
+<inverseRate>0.04261402</inverseRate>
+<inverseDescription>1 Pakistani Rupee = 0.04261402 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.20323941 LYD</title>
+<link>http://www.floatrates.com/dkk/lyd/</link>
+<description>1 Danish Krone = 0.20323941 Libyan Dinar</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>LYD</targetCurrency>
+<targetName>Libyan Dinar</targetName>
+<exchangeRate>0.20323941</exchangeRate>
+<inverseRate>4.92030555</inverseRate>
+<inverseDescription>1 Libyan Dinar = 4.92030555 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.14527295 PAB</title>
+<link>http://www.floatrates.com/dkk/pab/</link>
+<description>1 Danish Krone = 0.14527295 Panamanian Balboa</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>PAB</targetCurrency>
+<targetName>Panamanian Balboa</targetName>
+<exchangeRate>0.14527295</exchangeRate>
+<inverseRate>6.88359379</inverseRate>
+<inverseDescription>1 Panamanian Balboa = 6.88359379 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.39368810 XCD</title>
+<link>http://www.floatrates.com/dkk/xcd/</link>
+<description>1 Danish Krone = 0.39368810 East Caribbean Dollar</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>XCD</targetCurrency>
+<targetName>East Caribbean Dollar</targetName>
+<exchangeRate>0.39368810</exchangeRate>
+<inverseRate>2.54008184</inverseRate>
+<inverseDescription>1 East Caribbean Dollar = 2.54008184 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.26084119 ANG</title>
+<link>http://www.floatrates.com/dkk/ang/</link>
+<description>1 Danish Krone = 0.26084119 Neth. Antillean Guilder</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>ANG</targetCurrency>
+<targetName>Neth. Antillean Guilder</targetName>
+<exchangeRate>0.26084119</exchangeRate>
+<inverseRate>3.83375028</inverseRate>
+<inverseDescription>1 Neth. Antillean Guilder = 3.83375028 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 7.91841768 DOP</title>
+<link>http://www.floatrates.com/dkk/dop/</link>
+<description>1 Danish Krone = 7.91841768 Dominican Peso</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>DOP</targetCurrency>
+<targetName>Dominican Peso</targetName>
+<exchangeRate>7.91841768</exchangeRate>
+<inverseRate>0.12628786</inverseRate>
+<inverseDescription>1 Dominican Peso = 0.12628786 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 405.97769783 MNT</title>
+<link>http://www.floatrates.com/dkk/mnt/</link>
+<description>1 Danish Krone = 405.97769783 Mongolian togrog</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>MNT</targetCurrency>
+<targetName>Mongolian togrog</targetName>
+<exchangeRate>405.97769783</exchangeRate>
+<inverseRate>0.00246319</inverseRate>
+<inverseDescription>1 Mongolian togrog = 0.00246319 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.60898337 PLN</title>
+<link>http://www.floatrates.com/dkk/pln/</link>
+<description>1 Danish Krone = 0.60898337 Polish Zloty</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>PLN</targetCurrency>
+<targetName>Polish Zloty</targetName>
+<exchangeRate>0.60898337</exchangeRate>
+<inverseRate>1.64208097</inverseRate>
+<inverseDescription>1 Polish Zloty = 1.64208097 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.78543674 BRL</title>
+<link>http://www.floatrates.com/dkk/brl/</link>
+<description>1 Danish Krone = 0.78543674 Brazilian Real</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>BRL</targetCurrency>
+<targetName>Brazilian Real</targetName>
+<exchangeRate>0.78543674</exchangeRate>
+<inverseRate>1.27317702</inverseRate>
+<inverseDescription>1 Brazilian Real = 1.27317702 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.24690694 AZN</title>
+<link>http://www.floatrates.com/dkk/azn/</link>
+<description>1 Danish Krone = 0.24690694 Azerbaijan Manat</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>AZN</targetCurrency>
+<targetName>Azerbaijan Manat</targetName>
+<exchangeRate>0.24690694</exchangeRate>
+<inverseRate>4.05010889</inverseRate>
+<inverseDescription>1 Azerbaijan Manat = 4.05010889 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.82795062 GHS</title>
+<link>http://www.floatrates.com/dkk/ghs/</link>
+<description>1 Danish Krone = 0.82795062 Ghanaian Cedi</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>GHS</targetCurrency>
+<targetName>Ghanaian Cedi</targetName>
+<exchangeRate>0.82795062</exchangeRate>
+<inverseRate>1.20780151</inverseRate>
+<inverseDescription>1 Ghanaian Cedi = 1.20780151 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 7.51661678 GMD</title>
+<link>http://www.floatrates.com/dkk/gmd/</link>
+<description>1 Danish Krone = 7.51661678 Gambian dalasi</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>GMD</targetCurrency>
+<targetName>Gambian dalasi</targetName>
+<exchangeRate>7.51661678</exchangeRate>
+<inverseRate>0.13303858</inverseRate>
+<inverseDescription>1 Gambian dalasi = 0.13303858 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.26375239 AWG</title>
+<link>http://www.floatrates.com/dkk/awg/</link>
+<description>1 Danish Krone = 0.26375239 Aruban florin</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>AWG</targetCurrency>
+<targetName>Aruban florin</targetName>
+<exchangeRate>0.26375239</exchangeRate>
+<inverseRate>3.79143479</inverseRate>
+<inverseDescription>1 Aruban florin = 3.79143479 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 2.71620141 ZMW</title>
+<link>http://www.floatrates.com/dkk/zmw/</link>
+<description>1 Danish Krone = 2.71620141 Zambian kwacha</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>ZMW</targetCurrency>
+<targetName>Zambian kwacha</targetName>
+<exchangeRate>2.71620141</exchangeRate>
+<inverseRate>0.36816121</inverseRate>
+<inverseDescription>1 Zambian kwacha = 0.36816121 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 36.34388343 YER</title>
+<link>http://www.floatrates.com/dkk/yer/</link>
+<description>1 Danish Krone = 36.34388343 Yemeni rial</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>YER</targetCurrency>
+<targetName>Yemeni rial</targetName>
+<exchangeRate>36.34388343</exchangeRate>
+<inverseRate>0.02751495</inverseRate>
+<inverseDescription>1 Yemeni rial = 0.02751495 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 18.60419681 DZD</title>
+<link>http://www.floatrates.com/dkk/dzd/</link>
+<description>1 Danish Krone = 18.60419681 Algerian Dinar</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>DZD</targetCurrency>
+<targetName>Algerian Dinar</targetName>
+<exchangeRate>18.60419681</exchangeRate>
+<inverseRate>0.05375131</inverseRate>
+<inverseDescription>1 Algerian Dinar = 0.05375131 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.20593859 BND</title>
+<link>http://www.floatrates.com/dkk/bnd/</link>
+<description>1 Danish Krone = 0.20593859 Brunei Dollar</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>BND</targetCurrency>
+<targetName>Brunei Dollar</targetName>
+<exchangeRate>0.20593859</exchangeRate>
+<inverseRate>4.85581656</inverseRate>
+<inverseDescription>1 Brunei Dollar = 4.85581656 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.20559633 SGD</title>
+<link>http://www.floatrates.com/dkk/sgd/</link>
+<description>1 Danish Krone = 0.20559633 Singapore Dollar</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>SGD</targetCurrency>
+<targetName>Singapore Dollar</targetName>
+<exchangeRate>0.20559633</exchangeRate>
+<inverseRate>4.86390009</inverseRate>
+<inverseDescription>1 Singapore Dollar = 4.86390009 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.51063566 ILS</title>
+<link>http://www.floatrates.com/dkk/ils/</link>
+<description>1 Danish Krone = 0.51063566 Israeli New Sheqel</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>ILS</targetCurrency>
+<targetName>Israeli New Sheqel</targetName>
+<exchangeRate>0.51063566</exchangeRate>
+<inverseRate>1.95834346</inverseRate>
+<inverseDescription>1 Israeli New Sheqel = 1.95834346 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 11.63300464 KGS</title>
+<link>http://www.floatrates.com/dkk/kgs/</link>
+<description>1 Danish Krone = 11.63300464 Kyrgyzstan Som</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>KGS</targetCurrency>
+<targetName>Kyrgyzstan Som</targetName>
+<exchangeRate>11.63300464</exchangeRate>
+<inverseRate>0.08596231</inverseRate>
+<inverseDescription>1 Kyrgyzstan Som = 0.08596231 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.10311730 JOD</title>
+<link>http://www.floatrates.com/dkk/jod/</link>
+<description>1 Danish Krone = 0.10311730 Jordanian Dinar</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>JOD</targetCurrency>
+<targetName>Jordanian Dinar</targetName>
+<exchangeRate>0.10311730</exchangeRate>
+<inverseRate>9.69769416</inverseRate>
+<inverseDescription>1 Jordanian Dinar = 9.69769416 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 3.31157381 STN</title>
+<link>http://www.floatrates.com/dkk/stn/</link>
+<description>1 Danish Krone = 3.31157381 São Tomé and Príncipe Dobra</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>STN</targetCurrency>
+<targetName>São Tomé and Príncipe Dobra</targetName>
+<exchangeRate>3.31157381</exchangeRate>
+<inverseRate>0.30197123</inverseRate>
+<inverseDescription>1 São Tomé and Príncipe Dobra = 0.30197123 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 25.87078872 DJF</title>
+<link>http://www.floatrates.com/dkk/djf/</link>
+<description>1 Danish Krone = 25.87078872 Djiboutian franc</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>DJF</targetCurrency>
+<targetName>Djiboutian franc</targetName>
+<exchangeRate>25.87078872</exchangeRate>
+<inverseRate>0.03865363</inverseRate>
+<inverseDescription>1 Djiboutian franc = 0.03865363 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 16.53712999 ALL</title>
+<link>http://www.floatrates.com/dkk/all/</link>
+<description>1 Danish Krone = 16.53712999 Albanian lek</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>ALL</targetCurrency>
+<targetName>Albanian lek</targetName>
+<exchangeRate>16.53712999</exchangeRate>
+<inverseRate>0.06046998</inverseRate>
+<inverseDescription>1 Albanian lek = 0.06046998 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 592.52940093 KHR</title>
+<link>http://www.floatrates.com/dkk/khr/</link>
+<description>1 Danish Krone = 592.52940093 Cambodian riel</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>KHR</targetCurrency>
+<targetName>Cambodian riel</targetName>
+<exchangeRate>592.52940093</exchangeRate>
+<inverseRate>0.00168768</inverseRate>
+<inverseDescription>1 Cambodian riel = 0.00168768 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 587.95935743 COP</title>
+<link>http://www.floatrates.com/dkk/cop/</link>
+<description>1 Danish Krone = 587.95935743 Colombian Peso</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>COP</targetCurrency>
+<targetName>Colombian Peso</targetName>
+<exchangeRate>587.95935743</exchangeRate>
+<inverseRate>0.00170080</inverseRate>
+<inverseDescription>1 Colombian Peso = 0.00170080 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 89.58341031 XAF</title>
+<link>http://www.floatrates.com/dkk/xaf/</link>
+<description>1 Danish Krone = 89.58341031 Central African CFA Franc</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>XAF</targetCurrency>
+<targetName>Central African CFA Franc</targetName>
+<exchangeRate>89.58341031</exchangeRate>
+<inverseRate>0.01116278</inverseRate>
+<inverseDescription>1 Central African CFA Franc = 0.01116278 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.50766963 TMT</title>
+<link>http://www.floatrates.com/dkk/tmt/</link>
+<description>1 Danish Krone = 0.50766963 New Turkmenistan Manat</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>TMT</targetCurrency>
+<targetName>New Turkmenistan Manat</targetName>
+<exchangeRate>0.50766963</exchangeRate>
+<inverseRate>1.96978496</inverseRate>
+<inverseDescription>1 New Turkmenistan Manat = 1.96978496 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 6.24097102 UYU</title>
+<link>http://www.floatrates.com/dkk/uyu/</link>
+<description>1 Danish Krone = 6.24097102 Uruguayan Peso</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>UYU</targetCurrency>
+<targetName>Uruguayan Peso</targetName>
+<exchangeRate>6.24097102</exchangeRate>
+<inverseRate>0.16023148</inverseRate>
+<inverseDescription>1 Uruguayan Peso = 0.16023148 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 0.32619509 FJD</title>
+<link>http://www.floatrates.com/dkk/fjd/</link>
+<description>1 Danish Krone = 0.32619509 Fiji Dollar</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>FJD</targetCurrency>
+<targetName>Fiji Dollar</targetName>
+<exchangeRate>0.32619509</exchangeRate>
+<inverseRate>3.06565008</inverseRate>
+<inverseDescription>1 Fiji Dollar = 3.06565008 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 251.27953494 CDF</title>
+<link>http://www.floatrates.com/dkk/cdf/</link>
+<description>1 Danish Krone = 251.27953494 Congolese franc</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>CDF</targetCurrency>
+<targetName>Congolese franc</targetName>
+<exchangeRate>251.27953494</exchangeRate>
+<inverseRate>0.00397963</inverseRate>
+<inverseDescription>1 Congolese franc = 0.00397963 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 2.68379424 SZL</title>
+<link>http://www.floatrates.com/dkk/szl/</link>
+<description>1 Danish Krone = 2.68379424 Swazi lilangeni</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>SZL</targetCurrency>
+<targetName>Swazi lilangeni</targetName>
+<exchangeRate>2.68379424</exchangeRate>
+<inverseRate>0.37260681</inverseRate>
+<inverseDescription>1 Swazi lilangeni = 0.37260681 Danish Krone</inverseDescription>
+</item>
+<item>
+<title>1 DKK = 17.58018456 NPR</title>
+<link>http://www.floatrates.com/dkk/npr/</link>
+<description>1 Danish Krone = 17.58018456 Nepalese Rupee</description>
+<pubDate>Thu, 30 Apr 2020 12:00:01 GMT</pubDate>
+<baseCurrency>DKK</baseCurrency>
+<baseName>Danish Krone</baseName>
+<targetCurrency>NPR</targetCurrency>
+<targetName>Nepalese Rupee</targetName>
+<exchangeRate>17.58018456</exchangeRate>
+<inverseRate>0.05688222</inverseRate>
+<inverseDescription>1 Nepalese Rupee = 0.05688222 Danish Krone</inverseDescription>
+</item>
+</channel>
+
+

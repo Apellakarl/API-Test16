@@ -1,1 +1,1 @@
-﻿{"Added":[{"Id":50100,"Kind":16,"Name":"DIR Item Card","PackagePath":"/src/Pageextensions/Pagex50100_ItemCard.al"}],"Modified":[{"Id":50121,"Kind":13,"Name":"DIR WS REST Floatrate","PackagePath":"/src/src/Reports/Rep50121_WSRESTFloatrate.al"}],"Removed":[{"Id":50120,"Kind":13,"Name":"DIR WS SOAP Floatrate","PackagePath":"/src/src/Reports/Rep50120_WSRESTFloatrate.al"},{"Id":50101,"Kind":12,"Name":"DIR WS Customer Odata","PackagePath":"/src/src/APIs/pag50101_WS_Customer_REST%20copy.al"}]}
+﻿{"Added":[],"Modified":[],"Removed":[]}
