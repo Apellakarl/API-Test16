@@ -1,0 +1,1506 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xml:base="http://navtraining:7048/BC160/OData/" 
+    xmlns="http://www.w3.org/2005/Atom" 
+    xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" 
+    xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata">
+    <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI</id>
+    <title type="text">WSCUstomerAPI</title>
+    <updated>2020-04-30T09:45:21Z</updated>
+    <link rel="self" title="WSCUstomerAPI" href="WSCUstomerAPI" />
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDAAMQAxADIAMQAyADEAMgAAAAAA6%3B1445460%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('01121212')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('01121212')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>01121212</d:No>
+                <d:Name>Spotsmeyer's Furnishings</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDAAMQAxADIAMQAyADEAMgAAAAAA6;1445460;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDAAMQA0ADQANQA1ADQANAAAAAAA6%3B1445480%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('01445544')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('01445544')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>01445544</d:No>
+                <d:Name>Progressive Home Furnishings</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">1499.03</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDAAMQA0ADQANQA1ADQANAAAAAAA6;1445480;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDAAMQA0ADUANAA1ADQANQAAAAAA6%3B1445500%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('01454545')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('01454545')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>01454545</d:No>
+                <d:Name>New Concepts Furniture</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDAAMQA0ADUANAA1ADQANQAAAAAA6;1445500;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDAAMQA5ADAANQA4ADkAMwAAAAAA6%3B1445520%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('01905893')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('01905893')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>01905893</d:No>
+                <d:Name>Candoxy Canada Inc.</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDAAMQA5ADAANQA4ADkAMwAAAAAA6;1445520;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDAAMQA5ADAANQA4ADkAOQAAAAAA6%3B1445540%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('01905899')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('01905899')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>01905899</d:No>
+                <d:Name>Elkhorn Airport</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDAAMQA5ADAANQA4ADkAOQAAAAAA6;1445540;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDAAMQA5ADAANQA5ADAAMgAAAAAA6%3B1445560%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('01905902')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('01905902')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>01905902</d:No>
+                <d:Name>London Candoxy Storage Campus</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDAAMQA5ADAANQA5ADAAMgAAAAAA6;1445560;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'28%3BEgAAAAJ7BTEAMAAwADAAMAAAAAAA6%3B1449100%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('10000')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('10000')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>10000</d:No>
+                <d:Name>The Cannon Group PLC</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">17100.96</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>28;EgAAAAJ7BTEAMAAwADAAMAAAAAAA6;1449100;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'28%3BEgAAAAJ7BTIAMAAwADAAMAAAAAAA6%3B1445600%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('20000')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('20000')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>20000</d:No>
+                <d:Name>Selangorian Ltd.</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">6510.64</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>28;EgAAAAJ7BTIAMAAwADAAMAAAAAAA6;1445600;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDIAMAAzADAAOQA5ADIAMAAAAAAA6%3B1445620%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('20309920')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('20309920')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>20309920</d:No>
+                <d:Name>Metatorad Malaysia Sdn Bhd</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDIAMAAzADAAOQA5ADIAMAAAAAAA6;1445620;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDIAMAAzADEAMgA5ADEAMgAAAAAA6%3B1445640%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('20312912')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('20312912')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>20312912</d:No>
+                <d:Name>Highlights Electronics Sdn Bhd</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDIAMAAzADEAMgA5ADEAMgAAAAAA6;1445640;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDIAMAAzADMAOQA5ADIAMQAAAAAA6%3B1445660%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('20339921')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('20339921')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>20339921</d:No>
+                <d:Name>TraxTonic Sdn Bhd</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDIAMAAzADMAOQA5ADIAMQAAAAAA6;1445660;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDIAMQAyADMAMwA1ADcAMgAAAAAA6%3B1445680%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('21233572')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('21233572')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>21233572</d:No>
+                <d:Name>Somadis</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDIAMQAyADMAMwA1ADcAMgAAAAAA6;1445680;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDIAMQAyADQANQAyADcAOAAAAAAA6%3B1445700%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('21245278')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('21245278')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>21245278</d:No>
+                <d:Name>Maronegoce</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDIAMQAyADQANQAyADcAOAAAAAAA6;1445700;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDIAMQAyADUAMgA5ADQANwAAAAAA6%3B1445720%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('21252947')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('21252947')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>21252947</d:No>
+                <d:Name>ElectroMAROC</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDIAMQAyADUAMgA5ADQANwAAAAAA6;1445720;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDIANwAwADkAMAA5ADEANwAAAAAA6%3B1445740%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('27090917')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('27090917')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>27090917</d:No>
+                <d:Name>Zanlan Corp.</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDIANwAwADkAMAA5ADEANwAAAAAA6;1445740;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDIANwAzADIAMQA3ADgAMgAAAAAA6%3B1445760%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('27321782')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('27321782')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>27321782</d:No>
+                <d:Name>Karoo Supermarkets</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDIANwAzADIAMQA3ADgAMgAAAAAA6;1445760;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDIANwA0ADgAOQA5ADkAMQAAAAAA6%3B1445780%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('27489991')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('27489991')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>27489991</d:No>
+                <d:Name>Durbandit Fruit Exporters</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDIANwA0ADgAOQA5ADkAMQAAAAAA6;1445780;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'28%3BEgAAAAJ7BTMAMAAwADAAMAAAAAAA6%3B1445800%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('30000')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('30000')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>30000</d:No>
+                <d:Name>John Haddock Insurance Co.</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">6142.9</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>28;EgAAAAJ7BTMAMAAwADAAMAAAAAAA6;1445800;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDMAMQA1ADAANQAwADUAMAAAAAAA6%3B1445820%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('31505050')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('31505050')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>31505050</d:No>
+                <d:Name>Woonboulevard Kuitenbrouwer</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDMAMQA1ADAANQAwADUAMAAAAAAA6;1445820;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDMAMQA2ADYAOQA5ADYANgAAAAAA6%3B1445840%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('31669966')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('31669966')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>31669966</d:No>
+                <d:Name>Meersen Meubelen</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDMAMQA2ADYAOQA5ADYANgAAAAAA6;1445840;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDMAMQA5ADgANwA5ADgANwAAAAAA6%3B1445860%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('31987987')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('31987987')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>31987987</d:No>
+                <d:Name>Candoxy Nederland BV</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDMAMQA5ADgANwA5ADgANwAAAAAA6;1445860;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDMAMgAxADIANAA1ADcAOAAAAAAA6%3B1445880%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('32124578')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('32124578')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>32124578</d:No>
+                <d:Name>Nieuwe Zandpoort NV</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDMAMgAxADIANAA1ADcAOAAAAAAA6;1445880;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDMAMgA2ADUANgA1ADYANQAAAAAA6%3B1445900%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('32656565')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('32656565')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>32656565</d:No>
+                <d:Name>Antarcticopy</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">2582.8</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDMAMgA2ADUANgA1ADYANQAAAAAA6;1445900;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDMAMgA3ADgAOQA0ADUANgAAAAAA6%3B1445920%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('32789456')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('32789456')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>32789456</d:No>
+                <d:Name>Lovaina Contractors</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDMAMgA3ADgAOQA0ADUANgAAAAAA6;1445920;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDMAMwAwADAAMAAwADEAOQAAAAAA6%3B1445940%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('33000019')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('33000019')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>33000019</d:No>
+                <d:Name>Francematic</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDMAMwAwADAAMAAwADEAOQAAAAAA6;1445940;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDMAMwAwADAAMgA5ADgANAAAAAAA6%3B1445960%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('33002984')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('33002984')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>33002984</d:No>
+                <d:Name>Parmentier Boutique</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDMAMwAwADAAMgA5ADgANAAAAAAA6;1445960;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDMAMwAwADIAMgA4ADQAMgAAAAAA6%3B1445980%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('33022842')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('33022842')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>33022842</d:No>
+                <d:Name>Livre Importants</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDMAMwAwADIAMgA4ADQAMgAAAAAA6;1445980;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDMANAAwADEAMAAxADAAMAAAAAAA6%3B1446000%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('34010100')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('34010100')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>34010100</d:No>
+                <d:Name>Libros S.A.</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDMANAAwADEAMAAxADAAMAAAAAAA6;1446000;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDMANAAwADEAMAAxADkAOQAAAAAA6%3B1446020%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('34010199')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('34010199')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>34010199</d:No>
+                <d:Name>Corporación Beta</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDMANAAwADEAMAAxADkAOQAAAAAA6;1446020;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDMANAAwADEAMAA2ADAAMgAAAAAA6%3B1446040%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('34010602')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('34010602')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>34010602</d:No>
+                <d:Name>Helguera industrial</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDMANAAwADEAMAA2ADAAMgAAAAAA6;1446040;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDMANQAxADIAMgAxADEAMgAAAAAA6%3B1446060%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('35122112')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('35122112')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>35122112</d:No>
+                <d:Name>Bilabankinn</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDMANQAxADIAMgAxADEAMgAAAAAA6;1446060;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDMANQA0ADUAMQAyADMANgAAAAAA6%3B1446080%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('35451236')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('35451236')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>35451236</d:No>
+                <d:Name>Gagn &amp; Gaman</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">877.32</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDMANQA0ADUAMQAyADMANgAAAAAA6;1446080;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDMANQA5ADYAMwA4ADUAMgAAAAAA6%3B1446100%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('35963852')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('35963852')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>35963852</d:No>
+                <d:Name>Heimilisprydi</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">2024.21</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDMANQA5ADYAMwA4ADUAMgAAAAAA6;1446100;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDMAOAAxADIAOAA0ADUANgAAAAAA6%3B1446120%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('38128456')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('38128456')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>38128456</d:No>
+                <d:Name>MEMA Ljubljana d.o.o.</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDMAOAAxADIAOAA0ADUANgAAAAAA6;1446120;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDMAOAA1ADQANgA1ADUAMgAAAAAA6%3B1446140%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('38546552')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('38546552')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>38546552</d:No>
+                <d:Name>EXPORTLES d.o.o.</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDMAOAA1ADQANgA1ADUAMgAAAAAA6;1446140;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDMAOAA2ADMAMgAxADQANwAAAAAA6%3B1446160%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('38632147')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('38632147')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>38632147</d:No>
+                <d:Name>Centromerkur d.o.o.</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDMAOAA2ADMAMgAxADQANwAAAAAA6;1446160;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'28%3BEgAAAAJ7BTQAMAAwADAAMAAAAAAA6%3B1446180%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('40000')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('40000')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>40000</d:No>
+                <d:Name>Deerfield Graphics Company</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">1063.1</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>28;EgAAAAJ7BTQAMAAwADAAMAAAAAAA6;1446180;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDQAMQAyADMAMQAyADEANQAAAAAA6%3B1446200%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('41231215')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('41231215')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>41231215</d:No>
+                <d:Name>Sonnmatt Design</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDQAMQAyADMAMQAyADEANQAAAAAA6;1446200;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDQAMQA0ADkANwA2ADQANwAAAAAA6%3B1446220%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('41497647')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('41497647')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>41497647</d:No>
+                <d:Name>Pilatus AG</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDQAMQA0ADkANwA2ADQANwAAAAAA6;1446220;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDQAMQA1ADkANwA4ADMAMgAAAAAA6%3B1446240%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('41597832')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('41597832')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>41597832</d:No>
+                <d:Name>Möbel Scherrer AG</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDQAMQA1ADkANwA4ADMAMgAAAAAA6;1446240;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDQAMgAxADQANwAyADUAOAAAAAAA6%3B1446260%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('42147258')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('42147258')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>42147258</d:No>
+                <d:Name>BYT-KOMPLET s.r.o.</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">1602.9</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDQAMgAxADQANwAyADUAOAAAAAAA6;1446260;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDQAMgAyADUAOAAyADUAOAAAAAAA6%3B1446280%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('42258258')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('42258258')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>42258258</d:No>
+                <d:Name>J &amp; V v.o.s.</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDQAMgAyADUAOAAyADUAOAAAAAAA6;1446280;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDQAMgAzADYAOQAxADQANwAAAAAA6%3B1446300%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('42369147')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('42369147')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>42369147</d:No>
+                <d:Name>PLECHKONSTRUKT a.s.</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDQAMgAzADYAOQAxADQANwAAAAAA6;1446300;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDQAMwA2ADgANwAxADIAOQAAAAAA6%3B1446320%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('43687129')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('43687129')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>43687129</d:No>
+                <d:Name>Designstudio Gmunden</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">13732.6</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDQAMwA2ADgANwAxADIAOQAAAAAA6;1446320;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDQAMwA4ADUAMgAxADQANwAAAAAA6%3B1446340%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('43852147')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('43852147')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>43852147</d:No>
+                <d:Name>Michael Feit - Möbelhaus</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDQAMwA4ADUAMgAxADQANwAAAAAA6;1446340;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDQAMwA4ADcAMQAxADQANAAAAAAA6%3B1446360%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('43871144')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('43871144')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>43871144</d:No>
+                <d:Name>Möbel Siegfried</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDQAMwA4ADcAMQAxADQANAAAAAAA6;1446360;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDQANAAxADcAMQA1ADEAMQAAAAAA6%3B1227520%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('44171511')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('44171511')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>44171511</d:No>
+                <d:Name>Zuni Home Crafts Ltd.</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDQANAAxADcAMQA1ADEAMQAAAAAA6;1227520;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDQANAAxADgAMAAyADIAMAAAAAAA6%3B1227260%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('44180220')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('44180220')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>44180220</d:No>
+                <d:Name>Afrifield Corporation</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDQANAAxADgAMAAyADIAMAAAAAAA6;1227260;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDQANAA3ADUANgA0ADAANAAAAAAA6%3B1227790%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('44756404')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('44756404')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>44756404</d:No>
+                <d:Name>London Light Company</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDQANAA3ADUANgA0ADAANAAAAAAA6;1227790;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDQANQAyADgAMgA4ADIAOAAAAAAA6%3B1446380%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('45282828')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('45282828')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>45282828</d:No>
+                <d:Name>Candoxy Kontor A/S</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDQANQAyADgAMgA4ADIAOAAAAAAA6;1446380;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDQANQAyADgAMgA4ADIAOQAAAAAA6%3B1446410%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('45282829')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('45282829')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>45282829</d:No>
+                <d:Name>Carl Anthony</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDQANQAyADgAMgA4ADIAOQAAAAAA6;1446410;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDQANQA3ADcAOQA5ADcANwAAAAAA6%3B1446430%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('45779977')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('45779977')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>45779977</d:No>
+                <d:Name>Ravel Møbler</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDQANQA3ADcAOQA5ADcANwAAAAAA6;1446430;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDQANQA5ADcAOQA3ADkANwAAAAAA6%3B1446450%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('45979797')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('45979797')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>45979797</d:No>
+                <d:Name>Lauritzen Kontormøbler A/S</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDQANQA5ADcAOQA3ADkANwAAAAAA6;1446450;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDQANgAyADUAMQA0ADIANQAAAAAA6%3B1446470%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('46251425')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('46251425')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>46251425</d:No>
+                <d:Name>Marsholm Karmstol</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDQANgAyADUAMQA0ADIANQAAAAAA6;1446470;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDQANgA1ADIANQAyADQAMQAAAAAA6%3B1446490%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('46525241')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('46525241')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>46525241</d:No>
+                <d:Name>Konberg Tapet AB</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDQANgA1ADIANQAyADQAMQAAAAAA6;1446490;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDQANgA4ADkANwA4ADgAOQAAAAAA6%3B1446510%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('46897889')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('46897889')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>46897889</d:No>
+                <d:Name>Englunds Kontorsmöbler AB</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">673.71</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDQANgA4ADkANwA4ADgAOQAAAAAA6;1446510;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDQANwA1ADIAMwA2ADgANwAAAAAA6%3B1446530%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('47523687')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('47523687')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>47523687</d:No>
+                <d:Name>Slubrevik Senger AS</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDQANwA1ADIAMwA2ADgANwAAAAAA6;1446530;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDQANwA1ADYAMwAyADEAOAAAAAAA6%3B1446550%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('47563218')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('47563218')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>47563218</d:No>
+                <d:Name>Klubben</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">11772.2</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDQANwA1ADYAMwAyADEAOAAAAAAA6;1446550;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDQANwA1ADgANgA5ADUANAAAAAAA6%3B1446570%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('47586954')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('47586954')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>47586954</d:No>
+                <d:Name>Sjøboden</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDQANwA1ADgANgA5ADUANAAAAAAA6;1446570;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDQAOQA1ADIANQAyADUAMgAAAAAA6%3B1449040%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('49525252')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('49525252')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>49525252</d:No>
+                <d:Name>Beef House</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">6000</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDQAOQA1ADIANQAyADUAMgAAAAAA6;1449040;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDQAOQA2ADMAMwA2ADYAMwAAAAAA6%3B1449060%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('49633663')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('49633663')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>49633663</d:No>
+                <d:Name>Autohaus Mielberg KG</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">4331.4</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDQAOQA2ADMAMwA2ADYAMwAAAAAA6;1449060;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'36%3BEgAAAAJ7CDQAOQA4ADUAOAA1ADgANQAAAAAA6%3B1449080%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('49858585')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('49858585')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>49858585</d:No>
+                <d:Name>Hotel Pferdesee</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">14395.75</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>36;EgAAAAJ7CDQAOQA4ADUAOAA1ADgANQAAAAAA6;1449080;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'28%3BEgAAAAJ7BTUAMAAwADAAMAAAAAAA6%3B1449120%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('50000')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('50000')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>50000</d:No>
+                <d:Name>Guildford Water Department</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">533.4</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>28;EgAAAAJ7BTUAMAAwADAAMAAAAAAA6;1449120;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'28%3BEgAAAAJ7BTYAMAAwADAAMAAAAAAA6%3B1448520%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('60000')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('60000')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>60000</d:No>
+                <d:Name>Blanemark Hifi Shop</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>28;EgAAAAJ7BTYAMAAwADAAMAAAAAAA6;1448520;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'28%3BEgAAAAJ7BTYAMQAwADAAMAAAAAAA6%3B1448540%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('61000')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('61000')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>61000</d:No>
+                <d:Name>Fairway Sound</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>28;EgAAAAJ7BTYAMQAwADAAMAAAAAAA6;1448540;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'28%3BEgAAAAJ7BTYAMgAwADAAMAAAAAAA6%3B1448560%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('62000')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('62000')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>62000</d:No>
+                <d:Name>The Device Shop</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>28;EgAAAAJ7BTYAMgAwADAAMAAAAAAA6;1448560;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'32%3BEgAAAAJ7%2F0kAQwAxADAAMgAwAAAAAAA%3D6%3B1446670%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('IC1020')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('IC1020')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>IC1020</d:No>
+                <d:Name>Cronus Cardoxy Sales</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>32;EgAAAAJ7/0kAQwAxADAAMgAwAAAAAAA=6;1446670;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="W/&quot;'32%3BEgAAAAJ7%2F0kAQwAxADAAMwAwAAAAAAA%3D6%3B1446690%3B'&quot;">
+        <id>http://navtraining:7048/BC160/OData/Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('IC1030')</id>
+        <category term="NAV.WSCUstomerAPI" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" title="WSCUstomerAPI" href="Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI('IC1030')" />
+        <title />
+        <updated>2020-04-30T09:45:21Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:No>IC1030</d:No>
+                <d:Name>Cronus Cardoxy Procurement</d:Name>
+                <d:DateFilter></d:DateFilter>
+                <d:SalesLCY m:type="Edm.Decimal">0</d:SalesLCY>
+                <d:Global_Dimension_1_Filter></d:Global_Dimension_1_Filter>
+                <d:Global_Dimension_2_Filter></d:Global_Dimension_2_Filter>
+                <d:Currency_Filter></d:Currency_Filter>
+                <d:ETag>32;EgAAAAJ7/0kAQwAxADAAMwAwAAAAAAA=6;1446690;</d:ETag>
+            </m:properties>
+        </content>
+    </entry>
+</feed>

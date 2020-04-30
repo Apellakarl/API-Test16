@@ -8,13 +8,12 @@
             "server": "http://localhost",
             "serverInstance": "BC160",
             "authentication": "Windows",
-            "startupObjectId": 22,
-            "startupObjectType": "Page",
             "breakOnError": true,
             "launchBrowser": true,
             "enableLongRunningSqlStatements": true,
             "enableSqlInformationDebugger": true,
             "schemaUpdateMode": "ForceSync",
+            
         }
     ]
 }

@@ -1,0 +1,685 @@
+{
+    "@odata.context": "http://navtraining:7048/BC160/ODataV4/$metadata#Company('CRONUS%20International%20Ltd.')/WSCUstomerAPI",
+    "value": [
+        {
+            "@odata.etag": "W/\"JzQ0O0JoMTVRV3ZwNVQ4NDBaZkYvZC96UXhXemVINlRlenphUWZwbHAxTUF4b1k9MTswMDsn\"",
+            "No": "01121212",
+            "Name": "Spotsmeyer's Furnishings",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzB4NDJRNmZLSGp6N2hSRzhKcmhBMUNmeFVRcDhuRzIrMms3c3UwTmZTNzA9MTswMDsn\"",
+            "No": "01445544",
+            "Name": "Progressive Home Furnishings",
+            "DateFilter": "",
+            "SalesLCY": 1499.03,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1M3eFBPcGZ5U3lDV01heExMQkpZd3gwQjRzaFh1UFg2M1pZdXJtMTUyNFE9MTswMDsn\"",
+            "No": "01454545",
+            "Name": "New Concepts Furniture",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0Oyt0M2x2TmN5UUtQL0tGb29vYXVpVk5vWldpcFRSWERRSXZxTEhvcXNHRFk9MTswMDsn\"",
+            "No": "01905893",
+            "Name": "Candoxy Canada Inc.",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2NqWEI0ci9FcGZaVk1OTEJwZmx5eUM3NlpYTkN5S09HMHdxYWVDTnFSVFk9MTswMDsn\"",
+            "No": "01905899",
+            "Name": "Elkhorn Airport",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0Oy9ReVRkTGl3WmJqM21ubCs4WXlVVEp4RGh3WXZoZ1UxVTh4WUs3bFRvNVU9MTswMDsn\"",
+            "No": "01905902",
+            "Name": "London Candoxy Storage Campus",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0p5M0xRRGFPQ21IalcxdGMyZzdtd2Z3YW5BWkNpSmpJZ1ZIOWJOa3BvcHc9MTswMDsn\"",
+            "No": "10000",
+            "Name": "The Cannon Group PLC",
+            "DateFilter": "",
+            "SalesLCY": 17100.96,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0wydW5Sa2FheFNNRTU1ZVQ2a21SWlJuM0RJbHFacE1wWXdLTVRXZjc0cW89MTswMDsn\"",
+            "No": "20000",
+            "Name": "Selangorian Ltd.",
+            "DateFilter": "",
+            "SalesLCY": 6510.64,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1M0ZnRYSElXME9tM1pLbXRXallGRzRHUDdtellnUzg5b2NKd2k1aVR1clU9MTswMDsn\"",
+            "No": "20309920",
+            "Name": "Metatorad Malaysia Sdn Bhd",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2l6RFJWb1BKT1M5dzF1ZTN5WW1aL1BaOW1YcjE5ODZZWVhONzE1K2FSVlk9MTswMDsn\"",
+            "No": "20312912",
+            "Name": "Highlights Electronics Sdn Bhd",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0Jvdk5NWEpCUWRLcERiMHVUUm56ZVZ3dFlFbllQR2NRa2NjYTBldi9vcW89MTswMDsn\"",
+            "No": "20339921",
+            "Name": "TraxTonic Sdn Bhd",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3k1UjltSDZuT0hHbm93NkhZSVlmVHpOQ2tyenV1Rm5RZk5menhuKzZNeW89MTswMDsn\"",
+            "No": "21233572",
+            "Name": "Somadis",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O21JZXFVSG83U2ZvaklGNnJ3alhKSCt1OExpR3lnZzVuM2ZvcUthQW8wY0U9MTswMDsn\"",
+            "No": "21245278",
+            "Name": "Maronegoce",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O013blk4WGhETDZUVTRHZWZjMm1sWWpOZkxrdm9SOEFMVkRqL3RuQU81Y1U9MTswMDsn\"",
+            "No": "21252947",
+            "Name": "ElectroMAROC",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O05YV2JRbEVwcG9jM3laV0lyVWpLd2ZlbDlRMXpuL2NpK0YxV3VoNkxPNDg9MTswMDsn\"",
+            "No": "27090917",
+            "Name": "Zanlan Corp.",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0Oy96Tm9wVUtWcTJ1TE55ZmE3amc1VXlRMjE2TFgwWm5vTkFpT0ZpSVlPN0k9MTswMDsn\"",
+            "No": "27321782",
+            "Name": "Karoo Supermarkets",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3V3UXp2cmVSUFI3QnZpRThjbDJRaEdKSzhLNGhuMms5Vk9SZ2FiN0RPN0k9MTswMDsn\"",
+            "No": "27489991",
+            "Name": "Durbandit Fruit Exporters",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzhNc0lxTUZIK3JnbG0xUE9qQms1d0xsME43bWtzT0VVVUtNbkVlcjd6VE09MTswMDsn\"",
+            "No": "30000",
+            "Name": "John Haddock Insurance Co.",
+            "DateFilter": "",
+            "SalesLCY": 6142.9,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3FPWTNpekovOXpWWml1bnBqOUdsQlo1THc0ZE1qWElvZDk1dzQrN3gwd3M9MTswMDsn\"",
+            "No": "31505050",
+            "Name": "Woonboulevard Kuitenbrouwer",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2Q3NTk2NHJWV240VU5BbllHSG5vSEpYcmU0WGZoSTYrUGZ4MTV3ZmVyMmc9MTswMDsn\"",
+            "No": "31669966",
+            "Name": "Meersen Meubelen",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2dTNTUrUzRha3JLZEs1RFBla083akg5Rm84UU5SRlpUTGwvWm5zN2x0TGc9MTswMDsn\"",
+            "No": "31987987",
+            "Name": "Candoxy Nederland BV",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0pnYzIyVmdpcXl5c2REenVPYVpxZ2RlRWttaXduTUszZW1mWmlWT0lpTGs9MTswMDsn\"",
+            "No": "32124578",
+            "Name": "Nieuwe Zandpoort NV",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0dVU3BaWHdpZmx5dFZrSXYyVkFKKy9PcjRWQ0FHL2hHZ2ZHT1Ixby9FTWM9MTswMDsn\"",
+            "No": "32656565",
+            "Name": "Antarcticopy",
+            "DateFilter": "",
+            "SalesLCY": 2582.8,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O280dUtHVXBta1g2dmZVSC9vdE5nR0RQUkNHS0dOOXZLNFpkMFh0a3dJdlE9MTswMDsn\"",
+            "No": "32789456",
+            "Name": "Lovaina Contractors",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzFocWJnbE1BZURNYUZlY1A0SkFYNm5qSU1Ed05NTGVia3dVb2IwS1MxRkk9MTswMDsn\"",
+            "No": "33000019",
+            "Name": "Francematic",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1luODVQSE9xbjNMM0h2MXJyeDFVTEw0L25hcFRrMWZzNTJLZzM4TUdteFE9MTswMDsn\"",
+            "No": "33002984",
+            "Name": "Parmentier Boutique",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3VFYTFkc3k3R1dnMzd6aFE2SHA2K3AxOWJPeUtnbmt0SDNrb0N0N01kOFE9MTswMDsn\"",
+            "No": "33022842",
+            "Name": "Livre Importants",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1RmMWZPZHcrL2Nma3NBZE81NDNSa010MDlwcW1sRnc2SGttaE0vY1p5eUE9MTswMDsn\"",
+            "No": "34010100",
+            "Name": "Libros S.A.",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0g5QndHZG9uM1dxZElsRUVObW4vQnh2Y2tRR0NmbG9hV2tvb2x3SDE4dU09MTswMDsn\"",
+            "No": "34010199",
+            "Name": "Corporaci\u00f3n Beta",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1ovenZreWk2TXBieVJyOHNCclJGN21PbVN5RTV1c3VYQndiTW5RWVMvVHM9MTswMDsn\"",
+            "No": "34010602",
+            "Name": "Helguera industrial",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2liMVV0bXVhVm51U3VjcVlKbEM1N0Z1R2UvbWh6dDN1ZmxsQlJWSi9OZkk9MTswMDsn\"",
+            "No": "35122112",
+            "Name": "Bilabankinn",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O01keWJkYTAzaGZ3NzJhZ0ZpNk5WeVE4ZFBpMFpCRlB2ZEtubjAxem1jOU09MTswMDsn\"",
+            "No": "35451236",
+            "Name": "Gagn & Gaman",
+            "DateFilter": "",
+            "SalesLCY": 877.32,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3RsK3FmTkMxcjE0anlrU2tGSjd4WThwWFBzVzNEaVJ6Q0hDR0xtTkdwL009MTswMDsn\"",
+            "No": "35963852",
+            "Name": "Heimilisprydi",
+            "DateFilter": "",
+            "SalesLCY": 2024.21,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzlPVkd2UElCSXZKQnZpeTN2Uk1TWWxyazBOQ3JFb3FBbUtWV09CbUhOeGs9MTswMDsn\"",
+            "No": "38128456",
+            "Name": "MEMA Ljubljana d.o.o.",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3pxWHVybk8zTXNEZEp1aWVxVC9kR2JJL0tjT3VmRmVyQWJtZWUrSzlxZmc9MTswMDsn\"",
+            "No": "38546552",
+            "Name": "EXPORTLES d.o.o.",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3E5TGVyRm1FblFjUU5EcUx0bSt4LzVZZEUzMk5GdEMrUE1NNzhVUWZzOU09MTswMDsn\"",
+            "No": "38632147",
+            "Name": "Centromerkur d.o.o.",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3p0V3diSmVubzJ0eEsyL3Q1VUpLcFdPT0FoU2Jnak1sOFNvMnpGOVZIUVU9MTswMDsn\"",
+            "No": "40000",
+            "Name": "Deerfield Graphics Company",
+            "DateFilter": "",
+            "SalesLCY": 1063.1,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1QxcGt2aVRyZ0xtVWJnTlRVUlpGWHlDRWxPaTdkZFhLM1NqdnAwV2hDZGc9MTswMDsn\"",
+            "No": "41231215",
+            "Name": "Sonnmatt Design",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0ZZdEVxWFBEV3lvRkhXY1hiVW9yeXowYXBZQ05Sc3NTOTF0ZVNHSmNXQlU9MTswMDsn\"",
+            "No": "41497647",
+            "Name": "Pilatus AG",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzRVcGM2SnAwUWV1VzlMeEZ1ODZzbEZEdHJ3RHRkamdWNlhJbktJWTNmaFU9MTswMDsn\"",
+            "No": "41597832",
+            "Name": "M\u00f6bel Scherrer AG",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2QyQ1lxOENNZmYvdEZRaXF1UEhqNUo3SnphRndZYVp5MGlNb3dKSjFvaTA9MTswMDsn\"",
+            "No": "42147258",
+            "Name": "BYT-KOMPLET s.r.o.",
+            "DateFilter": "",
+            "SalesLCY": 1602.9,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3ZIQjVSZWY2U1JDNURCaWg0NE8vdTN0UUtmTzc2bnpxa2dHNkQ4RzlaV3c9MTswMDsn\"",
+            "No": "42258258",
+            "Name": "J & V v.o.s.",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2M2QlVONmRseTMrb2lwNk9NZHN1aC90c2gyVVMwd0pzMUx0U0JPdFNoNGs9MTswMDsn\"",
+            "No": "42369147",
+            "Name": "PLECHKONSTRUKT a.s.",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3hVS2Y1YkRNb0RIV2xYVFJObzNwTEl2Wkd1UlJtVUEwU0Jlak5xYmtPcDA9MTswMDsn\"",
+            "No": "43687129",
+            "Name": "Designstudio Gmunden",
+            "DateFilter": "",
+            "SalesLCY": 13732.6,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O01NaWN5bkc5OHUwdmUrY3B2SGRVdnFuZFVDdWFTNGJpTVZIRXhLYnZiYWc9MTswMDsn\"",
+            "No": "43852147",
+            "Name": "Michael Feit - M\u00f6belhaus",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzI1RExWUE1veW9NUEdocldnaEtWLzRiN2xyQ0lIc0lkdWhSN3ErOHp2NjQ9MTswMDsn\"",
+            "No": "43871144",
+            "Name": "M\u00f6bel Siegfried",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0VqRlBZWEpVNnhIQWZQbng0OGZ0RHljdExzWkNnYThBRlBXZXFaZ2l6aVk9MTswMDsn\"",
+            "No": "44171511",
+            "Name": "Zuni Home Crafts Ltd.",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0JzZWlJWXcwUXhaS0hka1lZMHBWNTV2T1RSOGtPNXNOTDQ3UkJCRXk0bUk9MTswMDsn\"",
+            "No": "44180220",
+            "Name": "Afrifield Corporation",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzBKVm11bXdsQTc4L293eEJXdnhKWWJMZlJzaEhRb3NYTzk2TUxIcTFGd0k9MTswMDsn\"",
+            "No": "44756404",
+            "Name": "London Light Company",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3Q2NVlPZzkvdDlYWUtHU2ppeUZuMXNicGs0RkRRUy9NK0c4SGxDODlJQTg9MTswMDsn\"",
+            "No": "45282828",
+            "Name": "Candoxy Kontor A/S",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2M2U3Z6ek5JdWd6SHIxbmdZQlZUWUVxeGlUaDB6ODFLcU5mcFJZMDc3TlU9MTswMDsn\"",
+            "No": "45282829",
+            "Name": "Carl Anthony",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2RjaWZwaHJ1SzdmYmhwK2F0YUYzQkRYcWhJMHp3ZGFRM1kzRkdyc0NFTVk9MTswMDsn\"",
+            "No": "45779977",
+            "Name": "Ravel M\u00f8bler",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3orMkNWQklDV2p3WmNVWjJ5aEFsb0dxWW44dk1pQUtPTGRQcWNhUG5lQ1k9MTswMDsn\"",
+            "No": "45979797",
+            "Name": "Lauritzen Kontorm\u00f8bler A/S",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2w1MmY4K2g0RE9CY28rWGJrRDdnMlNGNTZMY200Mkx5c3VUMndkc0FrQ009MTswMDsn\"",
+            "No": "46251425",
+            "Name": "Marsholm Karmstol",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0F3NFlHdFZVMjBRa3hlWnRuTUhHQkFhdk41ZnhqL2JxcHhLSnR5TytaSGM9MTswMDsn\"",
+            "No": "46525241",
+            "Name": "Konberg Tapet AB",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzZ4eFRoTkNWL083bzZ1UHFnSFhOb3NGQnJDdUN2SWJpVXVZVFhrbi8vT2M9MTswMDsn\"",
+            "No": "46897889",
+            "Name": "Englunds Kontorsm\u00f6bler AB",
+            "DateFilter": "",
+            "SalesLCY": 673.71,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1g3Mi9TMzA3OE9vaTBnUGgrTGdPOW90MWZNSk1SSVJMaVZTaG5PbFB0c0E9MTswMDsn\"",
+            "No": "47523687",
+            "Name": "Slubrevik Senger AS",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2pWblpBajkxd3B4ZEV1Vi9sQ2lCbXdoRzF0aEkxd0VyUTZLcmhyL0RQZTg9MTswMDsn\"",
+            "No": "47563218",
+            "Name": "Klubben",
+            "DateFilter": "",
+            "SalesLCY": 11772.2,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzNJajFzcElWb2RxUGJKL1h6aEtEck4yVUV4eFR1UFJiaEtBU1dZRlRLUHc9MTswMDsn\"",
+            "No": "47586954",
+            "Name": "Sj\u00f8boden",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2wwUllxNDVkc0s5aXo5L0twVHZ3Y3NPcWxvcWVIY0E5MnMvbjYxM2p4TVk9MTswMDsn\"",
+            "No": "49525252",
+            "Name": "Beef House",
+            "DateFilter": "",
+            "SalesLCY": 6000,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2c0K2FHRFJ6Y0ovQ0VOWUpkTVFIek5ZV0xNUzQ3MlJwZkR6TFJRN3RUNms9MTswMDsn\"",
+            "No": "49633663",
+            "Name": "Autohaus Mielberg KG",
+            "DateFilter": "",
+            "SalesLCY": 4331.4,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2hVSi9FZUdERGk4d3VHMysrNWtNTUIvS2FwT05wNnFSK3dsRGpzNGJjQVU9MTswMDsn\"",
+            "No": "49858585",
+            "Name": "Hotel Pferdesee",
+            "DateFilter": "",
+            "SalesLCY": 14395.75,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1hmc3JJRHJzRmpNcE1Qd0hLOVppaHlCdHl1YmpkWkxoU0pWOEpidEJTT2s9MTswMDsn\"",
+            "No": "50000",
+            "Name": "Guildford Water Department",
+            "DateFilter": "",
+            "SalesLCY": 533.4,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzR0b0xZKy9kOHRmbjJ0dDM5eWhiUmtNaSs2b3dTNUlRWkZPeTBBWHIyN0E9MTswMDsn\"",
+            "No": "60000",
+            "Name": "Blanemark Hifi Shop",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0kxenI0SEIvYVhoeHBtZ2poVCtyaUQ3REJXMEZSeEVNZTVJbGMycFZJbm89MTswMDsn\"",
+            "No": "61000",
+            "Name": "Fairway Sound",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzhYQVZsWkJHR042enpXMlNmOW9Mblh5YXdEZFcxbW95RjFqTEVpMGEralE9MTswMDsn\"",
+            "No": "62000",
+            "Name": "The Device Shop",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0lWTUttbzZhbEtrT1haS0dTWjFqcnE3VUpRMWhhNi95MkhmakdkdFR5ZEU9MTswMDsn\"",
+            "No": "IC1020",
+            "Name": "Cronus Cardoxy Sales",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3p4eTF0TlRXNittWEJQYUFnWUZtclAzK0lBdElyTVdSQUd6eDRBSlhGRk09MTswMDsn\"",
+            "No": "IC1030",
+            "Name": "Cronus Cardoxy Procurement",
+            "DateFilter": "",
+            "SalesLCY": 0,
+            "Global_Dimension_1_Filter": "",
+            "Global_Dimension_2_Filter": "",
+            "Currency_Filter": ""
+        }
+    ]
+}
