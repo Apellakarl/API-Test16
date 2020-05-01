@@ -54,6 +54,7 @@ report 50121 "DIR WS REST Floatrate"
         TokenName: text[50];
         LowerCurrCode: Text[50];
         inverseRate: Decimal;
+        textRate: Text;
     begin
         currencyRate.Init();
         LowerCurrCode := LowerCase(CurrencyCode);
@@ -63,7 +64,9 @@ report 50121 "DIR WS REST Floatrate"
         currencyRate."Currency Code" := FORMAT(SelectJsonToken(jsonObject, TokenName));
         currencyRate."Exchange Rate Amount" := 100;
         TokenName := '$.' + LowerCurrCode + '.inverseRate';
-        Evaluate(inverseRate, FORMAT(SelectJsonToken(jsonObject, TokenName)));
+        TextRate := FORMAT(SelectJsonToken(jsonObject, TokenName));
+        textrate := ConvertStr(textRate, '.', ',');
+        Evaluate(inverseRate, textRate);
         currencyRate."Relational Exch. Rate Amount" := inverseRate * 100;
         TokenName := '$.' + LowerCurrCode + '.date';
         currencyRate."Starting Date" := ConvertDate(format(SelectJsonToken(jsonObject, TokenName)));

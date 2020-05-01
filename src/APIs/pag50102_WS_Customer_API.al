@@ -1,16 +1,16 @@
 page 50102 "DIR WS Customer API"
 {
-    PageType = API;
-    APIPublisher = 'DIrectionsEMEA';
     APIGroup = 'APIs';
+    APIPublisher = 'DIrectionsEMEA';
     APIVersion = 'v1.0';
+    ApplicationArea = All;
+    DelayedInsert = true;
     EntityName = 'WSCustomers';
     EntitySetName = 'WSCustomers';
-    ApplicationArea = All;
-    UsageCategory = Administration;
-    DelayedInsert = true;
     ODataKeyFields = Id;
+    PageType = API;
     SourceTable = Customer;
+    UsageCategory = Administration;
 
 
     layout

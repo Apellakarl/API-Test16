@@ -6,13 +6,15 @@
             "request": "launch",
             "name": "Your own server",
             "server": "http://localhost",
-            "serverInstance": "BC160",
+            "serverInstance": "BC140",
+            "port": 7149,
             "authentication": "Windows",
             "breakOnError": true,
             "launchBrowser": true,
             "enableLongRunningSqlStatements": true,
             "enableSqlInformationDebugger": true,
             "schemaUpdateMode": "ForceSync",
+            
             
         }
     ]

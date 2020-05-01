@@ -2,37 +2,21 @@
   "id": "e4daca8a-9a24-4130-8d01-caa822b6de34",
   "name": "API test 16",
   "publisher": "Apella IT APS",
-  "version": "16.0.0.0",
-  "brief": "API kursus 30042020",
-  "description": "",
+  "version": "14.0.0.0",
   "privacyStatement": "",
   "EULA": "",
   "help": "",
-  "url": "http://apellait.dk",
+  "url": "",
   "logo": "",
-  "dependencies": [
-    {
-      "id": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
-      "publisher": "Microsoft",
-      "name": "System Application",
-      "version": "16.0.0.0"
-    },
-    {
-      "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
-      "publisher": "Microsoft",
-      "name": "Base Application",
-      "version": "16.0.0.0"
-    }
-  ],
+  "capabilities": [],
+  "dependencies": [],
   "screenshots": [],
-  "platform": "16.0.0.0",
-  "idRanges": [
-    {
-      "from": 50100,
-      "to": 50149
-    }
-  ],
-  "contextSensitiveHelpUrl": "https://APItest.com/help/",
-  "showMyCode": true,
-  "runtime": "5.0"
+  "platform": "14.0.29530.0",
+  "application": "14.0.29530.0",
+  "idRange": {
+    "from": 50000,
+    "to": 50149
+  },
+  "runtime": "3.0",
+  "showMyCode": true
 }

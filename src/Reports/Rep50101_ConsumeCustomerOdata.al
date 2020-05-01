@@ -1,20 +1,20 @@
 report 50101 "DIR WS REST Odata"
 {
-    UsageCategory = ReportsAndAnalysis;
     ApplicationArea = All;
     Caption = 'WS REST Odata';
     ProcessingOnly = true;
+    UsageCategory = ReportsAndAnalysis;
 
     trigger OnPreReport()
     var
         Httpclient: HttpClient;
-        HttpResponse: HttpResponseMessage;
-        HttpRequest: HttpRequestMessage;
         HttpContent: HttpContent;
         httpHeaders: HttpHeaders;
+        HttpRequest: HttpRequestMessage;
+        HttpResponse: HttpResponseMessage;
+        PasswordText: Text;
         Url: text;
         UserID: Text;
-        PasswordText: Text;
 
     begin
         UserID := 'USER';
